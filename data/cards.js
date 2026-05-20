@@ -9882,5 +9882,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Togawa-Sakiko-X-Wakaba-Mutsumi-1.webp"
+},{
+  "id": "1233",
+  "name": "Kanade Yoisaki #4",
+  "series": "Project SEKAI Colourful Stage!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Kanade-Yoisaki-4.png"
 }
 ];
