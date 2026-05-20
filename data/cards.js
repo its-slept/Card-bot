@@ -9394,5 +9394,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Ulquiorra-Cifer.webp"
+},{
+  "id": "1172",
+  "name": "Yoruichi Shihouin #3",
+  "series": "Bleach",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yoruichi-Shihouin-3.webp"
 }
 ];
