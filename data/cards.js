@@ -9722,5 +9722,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Mimosa-Vermillion-1.webp"
+},{
+  "id": "1213",
+  "name": "Mari & Asuka #1",
+  "series": "Neon Genesis Evangelion",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Mari-Asuka-1.webp"
 }
 ];
