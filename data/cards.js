@@ -9522,5 +9522,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Klee.webp"
+},{
+  "id": "1188",
+  "name": "Ichigo Kurosaki #3",
+  "series": "Bleach",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Ichigo-Kurosaki-3.webp"
 }
 ];
