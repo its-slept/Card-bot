@@ -9290,5 +9290,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Takamiya-Mio-1.webp"
+},{
+  "id": "1159",
+  "name": "Nami #3",
+  "series": "One Piece",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Nami-#3.webp"
 }
 ];
