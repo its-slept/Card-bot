@@ -9322,5 +9322,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Phoebe-1.webp"
+},{
+  "id": "1163",
+  "name": "Hilda #1",
+  "series": "Path To Nowhere",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Hilda-1.webp"
 }
 ];
