@@ -9820,11 +9820,11 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nico-Robin-1.webp"
 },{
   "id": "1225",
-  "name": "Jin #1",
+  "name": "Jin Cheong-woo #1",
   "series": "Under The Green Light",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Jin-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Jin-Cheong-woo-1.webp"
 }
 ];
