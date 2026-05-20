@@ -9564,7 +9564,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Aicandii-1.webp"
 },{
   "id": "1193",
-  "name": "Mint Fantome",
+  "name": "Mint Fantome #1",
   "series": "Vtubers & Youtubers",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
