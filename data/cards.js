@@ -9881,7 +9881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Togawa-Sakiko-X-Wakaba-Mutsumi-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Togawa-Sakiko-X-Wakaba-Mutsumi-1.png"
 },{
   "id": "1233",
   "name": "Kanade Yoisaki #4",
