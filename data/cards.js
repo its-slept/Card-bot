@@ -9770,5 +9770,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Murakumo-Kagetsu-1.webp"
+},{
+  "id": "1219",
+  "name": "Tamanoi Nana #1",
+  "series": "Nijisanji",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Tamanoi-Nana-1.webp"
 }
 ];
