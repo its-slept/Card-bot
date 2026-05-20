@@ -9810,5 +9810,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Boa-Hancock-2.webp"
+},{
+  "id": "1224",
+  "name": "Nico Robin #1",
+  "series": "One Piece",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nico-Robin-1.webp"
 }
 ];
