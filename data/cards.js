@@ -9498,5 +9498,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Shuna-1.webp"
+},{
+  "id": "1185",
+  "name": "Evil Neuro #1",
+  "series": "Vtubers & Youtubers",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Evil-Neuro-1.webp"
 }
 ];
