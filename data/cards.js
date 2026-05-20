@@ -9746,5 +9746,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Akane-Lize-1.webp"
+},{
+  "id": "1216",
+  "name": "Osaragi #3",
+  "series": "Sakamoto Days",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Osaragi-3.webp"
 }
 ];
