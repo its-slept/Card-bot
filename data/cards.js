@@ -9727,7 +9727,7 @@ export const CARDS = [
   "name": "Mari & Asuka #1",
   "series": "Neon Genesis Evangelion",
   "rarity": "rare,epic,legendary",
-  "type": "Permanent",
+  "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Mari-Asuka-1.webp"
 },{
