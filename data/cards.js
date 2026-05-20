@@ -9762,5 +9762,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Alban-Knox-1.webp"
+},{
+  "id": "1218",
+  "name": "Murakumo Kagetsu #1",
+  "series": "Nijisanji",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Murakumo-Kagetsu-1.webp"
 }
 ];
