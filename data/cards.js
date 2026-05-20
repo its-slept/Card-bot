@@ -9618,5 +9618,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Juno-Umezono-1.webp"
+},{
+  "id": "1200",
+  "name": "Dorothy #1",
+  "series": "Goddess of Victory: Nikke",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Dorothy-1.webp"
 }
 ];
