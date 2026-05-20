@@ -9850,5 +9850,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Cabernet.webp"
+},{
+  "id": "1229",
+  "name": "Jane Doe #1",
+  "series": "Zenless Zone Zero",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Jane-Doe-1.webp"
 }
 ];
