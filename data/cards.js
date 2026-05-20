@@ -9514,5 +9514,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Varka-1.webp"
+},{
+  "id": "1187",
+  "name": "Klee",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Klee.webp"
 }
 ];
