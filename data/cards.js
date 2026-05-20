@@ -9410,5 +9410,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Sui-Feng-1.webp"
+},{
+  "id": "1174",
+  "name": "Dokugamine Riruka #1",
+  "series": "Bleach",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Dokugamine-Riruka-1.webp"
 }
 ];
