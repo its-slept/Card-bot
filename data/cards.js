@@ -7477,7 +7477,7 @@ export const CARDS = [
 },{
   "id": "932",
   "name": "Ram #3",
-  "series": "Re:Zero − Starting Life In Another World",
+  "series": "Re:Zero",
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
