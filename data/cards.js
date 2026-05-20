@@ -7157,7 +7157,7 @@ export const CARDS = [
 },{
   "id": "892",
   "name": "Sakura Futaba #1",
-  "series": "Persona 5",
+  "series": "Persona Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
