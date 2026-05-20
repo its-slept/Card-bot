@@ -9530,5 +9530,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Ichigo-Kurosaki-3.webp"
+},{
+  "id": "1189",
+  "name": "Gaon #1",
+  "series": "Nijisanji",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Gaon-1.webp"
 }
 ];
