@@ -9730,5 +9730,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Mari-Asuka-1.webp"
+},{
+  "id": "1214",
+  "name": "Kurapika #1",
+  "series": "Hunter x Hunter",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Kurapika-1.webp"
 }
 ];
