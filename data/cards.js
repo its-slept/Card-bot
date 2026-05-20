@@ -9348,7 +9348,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Jinshi-1.webp"
 },{
   "id": "1166",
-  "name": "Marisa",
+  "name": "IT WONT LET ME",
   "series": "Kirisame",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
