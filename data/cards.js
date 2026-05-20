@@ -9388,7 +9388,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Fu-Hua-2.webp"
 },{
   "id": "1171",
-  "name": "Ulquiorra Cifer",
+  "name": "Ulquiorra Cifer #1",
   "series": "Bleach",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
