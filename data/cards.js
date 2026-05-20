@@ -9698,5 +9698,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/William-Vangeance-1.webp"
+},{
+  "id": "1210",
+  "name": "Barbara #1",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Barbara-1.webp"
 }
 ];
