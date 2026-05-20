@@ -9458,5 +9458,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yoshino-Himekawa-4.webp"
+},{
+  "id": "1180",
+  "name": "Kurumi Tokisaki #10",
+  "series": "Date A Live",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Kurumi-Tokisaki-10.webp"
 }
 ];
