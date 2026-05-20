@@ -8693,7 +8693,7 @@ export const CARDS = [
 },{
   "id": "1084",
   "name": "Blanc X Noir #1",
-  "series": "Nikke",
+  "series": "Goddess of Victory: Nikke",
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
