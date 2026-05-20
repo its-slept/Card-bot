@@ -9586,5 +9586,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yanqing.webp"
+},{
+  "id": "1196",
+  "name": "Killua & Alluka",
+  "series": "Hunter X Hunter",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Killua-Alluka.webp"
 }
 ];
