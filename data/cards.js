@@ -9546,5 +9546,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Ange-Katrina.webp"
+},{
+  "id": "1191",
+  "name": "Rosedoodle #1",
+  "series": "Vtubers & Youtubers",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Rosedoodle-1.webp"
 }
 ];
