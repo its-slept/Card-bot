@@ -9348,12 +9348,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Jinhsi-1.webp"
 },{
   "id": "1166",
-  "name": "Marisa Kirisame #1",
+  "name": "Marisa Kiriame #1",
   "series": "Touhou",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Marisa.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Marisa-Kiriame-1.webp"
 },{
   "id": "1167",
   "name": "Buffpup #1",
