@@ -9349,7 +9349,7 @@ export const CARDS = [
 },{
   "id": "1166",
   "name": "Marisa Kirisame #1",
-  "series": "Touhou",
+  "series": "Should I make it a modal too?",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
