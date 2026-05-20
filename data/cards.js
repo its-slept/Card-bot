@@ -9610,5 +9610,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Ruby-Hakanai-2.webp"
+},{
+  "id": "1199",
+  "name": "Juno Umezono #1",
+  "series": "Virtual eSports Project!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Juno-Umezono-1.webp"
 }
 ];
