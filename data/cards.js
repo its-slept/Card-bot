@@ -9879,7 +9879,7 @@ export const CARDS = [
   "name": "Togawa Sakiko X Wakaba Mutsumi #1",
   "series": "BanG Dream! Series",
   "rarity": "rare,epic,legendary",
-  "type": "Permanent",
+  "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Togawa-Sakiko-X-Wakaba-Mutsumi-1.webp"
 },{
