@@ -7149,7 +7149,7 @@ export const CARDS = [
 },{
   "id": "891",
   "name": "Ryūji Sakamoto #1",
-  "series": "Persona 5",
+  "series": "Persona Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
