@@ -9482,5 +9482,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Mei-Mei-1.webp"
+},{
+  "id": "1183",
+  "name": "Shion #1",
+  "series": "That Time I Got Reincarnated as a Slime",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Shion-1.webp"
 }
 ];
