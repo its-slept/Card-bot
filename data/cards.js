@@ -9898,5 +9898,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Sung-Jin-Woo-4.webp"
+},{
+  "id": "1235",
+  "name": "Changli #1",
+  "series": "Wuthering Waves",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Changli-1.webp"
 }
 ];
