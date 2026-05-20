@@ -9293,7 +9293,7 @@ export const CARDS = [
 },{
   "id": "1159",
   "name": "Nami #3 One Piece rare,epic,legendary Permanent Official Art",
-  "series": "Unknown Series",
+  "series": "One Piece",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
