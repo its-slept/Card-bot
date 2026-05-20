@@ -9788,11 +9788,11 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Aizawa-Ema-1.webp"
 },{
   "id": "1221",
-  "name": "Tatsumaki Chise",
+  "name": "Tatsumaki Chise #1",
   "series": "Virtual eSports Project!",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Tatsumaki-Chise.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Tatsumaki-Chise-1.webp"
 }
 ];
