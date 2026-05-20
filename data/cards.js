@@ -4861,7 +4861,7 @@ export const CARDS = [
 },{
   "id": "604",
   "name": "Yu Narukami #1",
-  "series": "Persona 4",
+  "series": "Persona Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
