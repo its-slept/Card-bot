@@ -9516,7 +9516,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Varka-1.webp"
 },{
   "id": "1187",
-  "name": "Klee",
+  "name": "Klee #1",
   "series": "Genshin Impact",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
