@@ -9578,5 +9578,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Shiabun-1.png"
+},{
+  "id": "1195",
+  "name": "Yanqing",
+  "series": "Honkai Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yanqing.webp"
 }
 ];
