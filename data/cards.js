@@ -9874,5 +9874,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Evanescia-1.webp"
+},{
+  "id": "1232",
+  "name": "Togawa Sakiko X Wakaba Mutsumi #1",
+  "series": "BanG Dream! Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Togawa-Sakiko-X-Wakaba-Mutsumi-1.webp"
 }
 ];
