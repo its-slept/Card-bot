@@ -9706,5 +9706,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Barbara-1.webp"
+},{
+  "id": "1211",
+  "name": "Grey #1",
+  "series": "Black Clover",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Grey-1.webp"
 }
 ];
