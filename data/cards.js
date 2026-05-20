@@ -9634,5 +9634,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Magna-Swing-1.webp"
+},{
+  "id": "1202",
+  "name": "Noelle Silva #1",
+  "series": "Black Clover",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Noelle-Silva-1.webp"
 }
 ];
