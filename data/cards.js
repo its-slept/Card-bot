@@ -9794,5 +9794,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Tatsumaki-Chise-1.webp"
+},{
+  "id": "1222",
+  "name": "Nekota Tsuna #1",
+  "series": "Virtual eSports Project!",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nekota-Tsuna-1.webp"
 }
 ];
