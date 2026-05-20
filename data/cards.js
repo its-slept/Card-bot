@@ -4181,7 +4181,7 @@ export const CARDS = [
 },{
   "id": "519",
   "name": "Yumi Shiina #1",
-  "series": "Persona 5: The Phantom X",
+  "series": "Persona Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
