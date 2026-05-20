@@ -9466,5 +9466,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Kurumi-Tokisaki-10.webp"
+},{
+  "id": "1181",
+  "name": "Hirako Shinji #1",
+  "series": "Bleach",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Hirako-Shinji-1.webp"
 }
 ];
