@@ -9354,5 +9354,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Marisa.webp"
+},{
+  "id": "1167",
+  "name": "Buffpup #1",
+  "series": "Vtubers & Youtubers",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Buffpup-1.webp"
 }
 ];
