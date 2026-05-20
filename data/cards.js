@@ -9754,5 +9754,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Osaragi-3.webp"
+},{
+  "id": "1217",
+  "name": "Alban Knox #1",
+  "series": "Nijisanji",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Alban-Knox-1.webp"
 }
 ];
