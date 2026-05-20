@@ -9834,5 +9834,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Matthew-Raynor.webp"
+},{
+  "id": "1227",
+  "name": "Angell #1",
+  "series": "Path To Nowhere",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Angell-1.webp"
 }
 ];
