@@ -9450,5 +9450,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Osaragi-2.webp"
+},{
+  "id": "1179",
+  "name": "Yoshino Himekawa #4",
+  "series": "Date A Live",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yoshino-Himekawa-4.webp"
 }
 ];
