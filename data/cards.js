@@ -9642,5 +9642,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Noelle-Silva-1.webp"
+},{
+  "id": "1203",
+  "name": "Kahono #1",
+  "series": "Black Clover",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Kahono-1.webp"
 }
 ];
