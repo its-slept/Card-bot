@@ -9474,5 +9474,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Hirako-Shinji-1.webp"
+},{
+  "id": "1182",
+  "name": "Mei Mei #1",
+  "series": "Jujutsu Kaisen",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Mei-Mei-1.webp"
 }
 ];
