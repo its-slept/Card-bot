@@ -9890,5 +9890,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Kanade-Yoisaki-4.png"
+},{
+  "id": "1234",
+  "name": "Sung Jin Woo #4",
+  "series": "Solo Leveling",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Sung-Jin-Woo-4.webp"
 }
 ];
