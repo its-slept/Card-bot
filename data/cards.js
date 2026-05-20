@@ -9442,5 +9442,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Grimmjow.webp"
+},{
+  "id": "1178",
+  "name": "Osaragi #2",
+  "series": "Sakamoto Days",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Osaragi-2.webp"
 }
 ];
