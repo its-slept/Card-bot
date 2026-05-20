@@ -9540,7 +9540,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Gaon-1.webp"
 },{
   "id": "1190",
-  "name": "Ange Katrina",
+  "name": "Ange Katrina #1",
   "series": "Nijisanji",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
