@@ -9802,5 +9802,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nekota-Tsuna-1.webp"
+},{
+  "id": "1223",
+  "name": "Boa Hancock #2",
+  "series": "One Piece",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Boa-Hancock-2.webp"
 }
 ];
