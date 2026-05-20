@@ -7141,7 +7141,7 @@ export const CARDS = [
 },{
   "id": "890",
   "name": "Ren Amamiya #2",
-  "series": "Persona 5",
+  "series": "Persona Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
