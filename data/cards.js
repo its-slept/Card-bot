@@ -9908,11 +9908,11 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Changli-1.webp"
 },{
   "id": "1236",
-  "name": "Naviah Agnus X Creed",
+  "name": "Naviah Agnus X Creed #1",
   "series": "Can We Become Family?",
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Naviah-Agnus-X-Creed.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Naviah-Agnus-X-Creed-1.webp"
 }
 ];
