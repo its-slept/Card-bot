@@ -9378,5 +9378,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Neuvillette-2.webp"
+},{
+  "id": "1170",
+  "name": "Fu Hua #2",
+  "series": "Honkai Verse",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Fu-Hua-2.webp"
 }
 ];
