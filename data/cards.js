@@ -9418,5 +9418,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Dokugamine-Riruka-1.webp"
+},{
+  "id": "1175",
+  "name": "Lu Xiaotang #1",
+  "series": "Sakamoto Days",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Lu-Xiaotang-1.webp"
 }
 ];
