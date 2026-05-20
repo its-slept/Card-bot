@@ -9674,5 +9674,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Lumiere-Silvamillion-Clover-1.webp"
+},{
+  "id": "1207",
+  "name": "Dorothy Unsworth #1",
+  "series": "Black Clover",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Dorothy-Unsworth-1.webp"
 }
 ];
