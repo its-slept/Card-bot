@@ -9826,5 +9826,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Jin-Cheong-woo-1.webp"
+},{
+  "id": "1226",
+  "name": "Matthew Raynor",
+  "series": "Under The Green Light",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Matthew-Raynor.webp"
 }
 ];
