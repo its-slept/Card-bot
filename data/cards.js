@@ -9658,5 +9658,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Charlotte-Roselei-1.webp"
+},{
+  "id": "1205",
+  "name": "Secre Swallowtail #1",
+  "series": "Black Clover",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Secre-Swallowtail-1.webp"
 }
 ];
