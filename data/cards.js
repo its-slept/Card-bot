@@ -9364,7 +9364,7 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Buffpup-1.webp"
 },{
   "id": "1168",
-  "name": "Rem & Emilia",
+  "name": "Rem & Emilia #1",
   "series": "Re:Zero",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
