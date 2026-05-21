@@ -9962,5 +9962,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Trafalgar-Law-1.webp"
+},{
+  "id": "1243",
+  "name": "Shanks #1",
+  "series": "One Piece",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Shanks-1.webp"
 }
 ];
