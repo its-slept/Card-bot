@@ -329,7 +329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-4-36.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-4.webp"
 },{
   "id": "37",
   "name": "Cyrene #5",
@@ -9986,5 +9986,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Nicole-1.webp"
+},{
+  "id": "1246",
+  "name": "Lauma #3",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
 }
 ];
