@@ -1,3 +1,7 @@
+import { readFileSync } from "fs";
+import { fileURLToPath } from "url";
+import { dirname, join } from "path";
+
 /* ======================
    RARITY CHANCES (OUT OF 100)
 ====================== */
@@ -49,7 +53,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ ecstasy_not_found",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Shadow-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-02-16_11-12-31-328_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "2",
   "name": "Satoru Gojo #1",
@@ -57,7 +61,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Satoru-Gojo-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Card-1.webp"
 },{
   "id": "3",
   "name": "Inori Yuzuriha #1",
@@ -249,7 +253,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-34-145.png"
 },{
   "id": "27",
   "name": "Aventurine #2",
@@ -257,7 +261,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-48-447.png"
 },{
   "id": "28",
   "name": "Aventurine #3",
@@ -265,7 +269,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-43-43-988.png"
 },{
   "id": "29",
   "name": "Acheron #1",
@@ -273,7 +277,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Acheron-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-05-15-928.png"
 },{
   "id": "30",
   "name": "Acheron #2",
@@ -281,7 +285,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Acheron-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-06-23-052.png"
 },{
   "id": "31",
   "name": "Acheron #3",
@@ -289,7 +293,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Acheron-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-07-41-166.png"
 },{
   "id": "32",
   "name": "Acheron #4",
@@ -297,7 +301,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Acheron-4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-12-22-569.png"
 },{
   "id": "33",
   "name": "Cyrene #1",
@@ -321,7 +325,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-40-25-635.webp"
 },{
   "id": "36",
   "name": "Cyrene #4",
@@ -337,7 +341,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-45-31-422.webp"
 },{
   "id": "38",
   "name": "Sunday #1",
@@ -345,7 +349,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Sunday-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-51-08-012.png"
 },{
   "id": "39",
   "name": "Sunday #2",
@@ -353,7 +357,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Sunday-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-53-52-562.png"
 },{
   "id": "40",
   "name": "Sunday #3",
@@ -361,7 +365,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Sunday-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-54-59-839.png"
 },{
   "id": "41",
   "name": "Sunday #4",
@@ -369,7 +373,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Sunday-4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-56-38-845.png"
 },{
   "id": "42",
   "name": "Sunday #5",
@@ -377,7 +381,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Sunday-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-56-55-557.png"
 },{
   "id": "43",
   "name": "Jade #1",
@@ -1425,7 +1429,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-52-49-289_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Augusta-1.webp"
 },{
   "id": "174",
   "name": "Augusta #2",
@@ -4137,7 +4141,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Nami-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-101.webp"
 },{
   "id": "514",
   "name": "Dark Sakura #1",
@@ -9994,5 +9998,46 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
+},{
+  "id": "1247",
+  "name": "Astra Yao #1",
+  "series": "Zenless Zone Zero",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Astra-Yao-1.webp"
 }
 ];
+
+/* ======================
+   LIVE CARD READER
+   Reads cards.js fresh from disk so new/edited cards appear
+   without a bot restart. Results are cached for 5 seconds so
+   rapid successive lookups don't thrash the filesystem.
+====================== */
+const _cardsPath = join(dirname(fileURLToPath(import.meta.url)), "cards.js");
+let _cache = null;
+let _cacheAt = 0;
+const _TTL = 5_000;
+
+export function getCards() {
+  const now = Date.now();
+  if (_cache && now - _cacheAt < _TTL) return _cache;
+  const text = readFileSync(_cardsPath, "utf8");
+  const startToken = "export const CARDS = [";
+  const si = text.indexOf(startToken);
+  if (si === -1) throw new Error("Could not locate CARDS array in cards.js");
+  // The array is terminated by a standalone `];` on its own line
+  const endToken = "\n];";
+  const ei = text.indexOf(endToken, si);
+  if (ei === -1) throw new Error("Could not find end of CARDS array in cards.js");
+  const arrStr = text.slice(si + "export const CARDS = ".length, ei + 2);
+  _cache = new Function(`return ${arrStr}`)();
+  _cacheAt = now;
+  return _cache;
+}
+
+export function invalidateCardsCache() {
+  _cache = null;
+  _cacheAt = 0;
+}
