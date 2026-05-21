@@ -52,12 +52,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Shadow-1.webp"
 },{
   "id": "2",
-  "name": "Satoru Gojo #1",
+  "name": "Satoru Gojo #",
   "series": "Jujutsu Kaisen",
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Card-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Satoru-Gojo.webp"
 },{
   "id": "3",
   "name": "Inori Yuzuriha #1",
