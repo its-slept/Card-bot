@@ -265,7 +265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-26_16-43-43-988.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-3.webp"
 },{
   "id": "29",
   "name": "Acheron #1",
