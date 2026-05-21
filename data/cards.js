@@ -4137,7 +4137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-101.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Nami-2.webp"
 },{
   "id": "514",
   "name": "Dark Sakura #1",
