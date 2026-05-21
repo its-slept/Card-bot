@@ -9946,5 +9946,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Teresa-1.webp"
+},{
+  "id": "1241",
+  "name": "Suguru Geto #1",
+  "series": "Jujutsu Kaisen",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Suguru-Geto-1.webp"
 }
 ];
