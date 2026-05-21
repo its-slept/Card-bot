@@ -9954,5 +9954,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Suguru-Geto-1.webp"
+},{
+  "id": "1242",
+  "name": "Trafalgar Law #1",
+  "series": "One Piece",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Trafalgar-Law-1.webp"
 }
 ];
