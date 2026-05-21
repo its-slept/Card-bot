@@ -9916,11 +9916,11 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Naviah-Agnus-X-Creed-1.webp"
 },{
   "id": "1237",
-  "name": "Rider (Europa)",
+  "name": "Rider (Europa) #1",
   "series": "Fate Series",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Rider-Europa.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Rider-Europa-1.webp"
 }
 ];
