@@ -9999,6 +9999,15 @@ export const CARDS = [
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
 }
+{
+  "id": "1247",
+  "name": "Test",
+  "series": "Test",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Test.webp"
+}
 ];
 
 /* ======================
