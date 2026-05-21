@@ -9914,5 +9914,13 @@ export const CARDS = [
   "type": "Permanent Duo",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Naviah-Agnus-X-Creed-1.webp"
+},{
+  "id": "1237",
+  "name": "Rider (Europa)",
+  "series": "Fate Series",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Rider-Europa.webp"
 }
 ];
