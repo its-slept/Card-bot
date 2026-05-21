@@ -249,7 +249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-26_16-42-34-145.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-1.webp"
 },{
   "id": "27",
   "name": "Aventurine #2",
