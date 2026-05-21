@@ -44,12 +44,12 @@ export const TYPE_EMOJI = {
 export const CARDS = [
 {
   "id": "1",
-  "name": "Shadow #",
+  "name": "Shadow #1",
   "series": "Sonic The Hedgehog",
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ ecstasy_not_found",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Shadow.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Shadow-1.webp"
 },{
   "id": "2",
   "name": "Satoru Gojo #1",
