@@ -49,7 +49,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ ecstasy_not_found",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Picsart_26-02-16_11-12-31-328_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-02-16_11-12-31-328_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "2",
   "name": "Satoru Gojo #1",
@@ -57,7 +57,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Card-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Card-1.webp"
 },{
   "id": "3",
   "name": "Inori Yuzuriha #1",
@@ -65,7 +65,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/inori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/inori1.webp"
 },{
   "id": "4",
   "name": "Tsunade Senju #1",
@@ -73,7 +73,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/tsunade1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/tsunade1.webp"
 },{
   "id": "5",
   "name": "Georgia #1",
@@ -81,7 +81,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/georgia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/georgia1.webp"
 },{
   "id": "6",
   "name": "Uchiha Madara #1",
@@ -89,7 +89,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made by ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/madara1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/madara1.webp"
 },{
   "id": "7",
   "name": "Rengoku Kyojuro #1",
@@ -97,7 +97,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/rengoku-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/rengoku-1.webp"
 },{
   "id": "8",
   "name": "Castorice #1",
@@ -105,7 +105,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/castorice-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/castorice-1.webp"
 },{
   "id": "9",
   "name": "Mitsuri Kanroji #1",
@@ -113,7 +113,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ mollysdouble",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/image-Photoroom-1%20(1).png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/image-Photoroom-1%20(1).png"
 },{
   "id": "10",
   "name": "Saber #1",
@@ -121,7 +121,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/saber1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/saber1.webp"
 },{
   "id": "11",
   "name": "Rias Gremory #1",
@@ -129,7 +129,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/rias-3D.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/rias-3D.webp"
 },{
   "id": "12",
   "name": "Aqua #1",
@@ -137,7 +137,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Aqua-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Aqua-1.webp"
 },{
   "id": "13",
   "name": "Alisa Mikhailovna Kujou #1",
@@ -145,7 +145,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/alya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/alya1.webp"
 },{
   "id": "14",
   "name": "Gyutaro #1",
@@ -153,7 +153,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ mollysdouble",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Picsart_26-01-24_15-49-41-977.jpg"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-01-24_15-49-41-977.jpg"
 },{
   "id": "15",
   "name": "Nami #1",
@@ -161,7 +161,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/nami-3D.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/nami-3D.webp"
 },{
   "id": "16",
   "name": "Vegito #1",
@@ -169,7 +169,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept ",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/vegito-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/vegito-1.webp"
 },{
   "id": "17",
   "name": "Mahiru Shiina #1",
@@ -177,7 +177,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/mahirushiina1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/mahirushiina1.webp"
 },{
   "id": "18",
   "name": "Sung Jin Woo #1",
@@ -185,7 +185,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Picsart_26-01-06_15-57-35-568.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-01-06_15-57-35-568.png"
 },{
   "id": "19",
   "name": "Rio Futaba #1",
@@ -193,7 +193,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Picsart_26-01-07_15-48-51-333.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-01-07_15-48-51-333.png"
 },{
   "id": "20",
   "name": "Shorekeeper #1",
@@ -201,7 +201,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/shorekeeper-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/shorekeeper-1.webp"
 },{
   "id": "21",
   "name": "Kafka #1",
@@ -209,7 +209,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/kafka1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/kafka1.webp"
 },{
   "id": "22",
   "name": "Columbina #1",
@@ -217,7 +217,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ Slept & Mid",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/columbina-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/columbina-1.webp"
 },{
   "id": "23",
   "name": "Iuno #1",
@@ -225,7 +225,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/iuno1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/iuno1.webp"
 },{
   "id": "24",
   "name": "Qiuyuan #1",
@@ -233,7 +233,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Untitled159_20260124171751%20(1).png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Untitled159_20260124171751%20(1).png"
 },{
   "id": "25",
   "name": "Hanying #1",
@@ -241,7 +241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_15-36-51-163.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_15-36-51-163.png"
 },{
   "id": "26",
   "name": "Aventurine #1",
@@ -249,7 +249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_16-42-34-145.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-34-145.png"
 },{
   "id": "27",
   "name": "Aventurine #2",
@@ -257,7 +257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_16-42-48-447.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-48-447.png"
 },{
   "id": "28",
   "name": "Aventurine #3",
@@ -265,7 +265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_16-43-43-988.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-43-43-988.png"
 },{
   "id": "29",
   "name": "Acheron #1",
@@ -273,7 +273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_17-05-15-928.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-05-15-928.png"
 },{
   "id": "30",
   "name": "Acheron #2",
@@ -281,7 +281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_17-06-23-052.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-06-23-052.png"
 },{
   "id": "31",
   "name": "Acheron #3",
@@ -289,7 +289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_17-07-41-166.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-07-41-166.png"
 },{
   "id": "32",
   "name": "Acheron #4",
@@ -297,7 +297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-26_17-12-22-569.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-12-22-569.png"
 },{
   "id": "33",
   "name": "Cyrene #1",
@@ -313,7 +313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-40-04-502.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-40-04-502.png"
 },{
   "id": "35",
   "name": "Cyrene #3",
@@ -321,7 +321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-40-25-635.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-40-25-635.png"
 },{
   "id": "36",
   "name": "Cyrene #4",
@@ -329,7 +329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-41-54-354.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-41-54-354.webp"
 },{
   "id": "37",
   "name": "Cyrene #5",
@@ -337,7 +337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-45-31-422.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-45-31-422.png"
 },{
   "id": "38",
   "name": "Sunday #1",
@@ -345,7 +345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-51-08-012.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-51-08-012.png"
 },{
   "id": "39",
   "name": "Sunday #2",
@@ -353,7 +353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-53-52-562.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-53-52-562.png"
 },{
   "id": "40",
   "name": "Sunday #3",
@@ -361,7 +361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-54-59-839.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-54-59-839.png"
 },{
   "id": "41",
   "name": "Sunday #4",
@@ -369,7 +369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-56-38-845.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-56-38-845.png"
 },{
   "id": "42",
   "name": "Sunday #5",
@@ -377,7 +377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_02-56-55-557.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_02-56-55-557.png"
 },{
   "id": "43",
   "name": "Jade #1",
@@ -385,7 +385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_04-20-41-231.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_04-20-41-231.png"
 },{
   "id": "44",
   "name": "Jade #2",
@@ -393,7 +393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_04-21-47-888.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_04-21-47-888.png"
 },{
   "id": "45",
   "name": "Jade #3",
@@ -401,7 +401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_04-24-29-271.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_04-24-29-271.png"
 },{
   "id": "46",
   "name": "Jade #4",
@@ -409,7 +409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_04-24-52-112.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_04-24-52-112.png"
 },{
   "id": "47",
   "name": "Jade #5",
@@ -417,7 +417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Picsart_26-01-27_04-25-11-446.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-27_04-25-11-446.png"
 },{
   "id": "48",
   "name": "Robin #1",
@@ -425,7 +425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-31-43-852.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-31-43-852.png"
 },{
   "id": "49",
   "name": "Robin #2",
@@ -433,7 +433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-31-57-054.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-31-57-054.png"
 },{
   "id": "50",
   "name": "Robin #3",
@@ -441,7 +441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-37-38-199.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-37-38-199.png"
 },{
   "id": "51",
   "name": "Robin #4",
@@ -449,7 +449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-38-07-766.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-38-07-766.png"
 },{
   "id": "52",
   "name": "Robin #5",
@@ -457,7 +457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-39-26-616.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-39-26-616.png"
 },{
   "id": "53",
   "name": "Kafka #2",
@@ -465,7 +465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-32-29-477.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-32-29-477.png"
 },{
   "id": "54",
   "name": "Kafka #3",
@@ -473,7 +473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-32-44-148.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-32-44-148.png"
 },{
   "id": "55",
   "name": "Kafka #4",
@@ -481,7 +481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-33-41-250.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-33-41-250.png"
 },{
   "id": "56",
   "name": "Kafka #5",
@@ -489,7 +489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-33-59-860.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-33-59-860.png"
 },{
   "id": "57",
   "name": "Kafka #6",
@@ -497,7 +497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-34-34-893.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-34-34-893.png"
 },{
   "id": "58",
   "name": "Phainon #1",
@@ -505,7 +505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-42-19-672.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-42-19-672.png"
 },{
   "id": "59",
   "name": "Phainon #2",
@@ -513,7 +513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-42-35-075.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-42-35-075.png"
 },{
   "id": "60",
   "name": "Phainon #3",
@@ -521,7 +521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-44-55-916.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-44-55-916.png"
 },{
   "id": "61",
   "name": "Phainon #4",
@@ -529,7 +529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_07-08-03-806.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_07-08-03-806.png"
 },{
   "id": "62",
   "name": "Phainon #5",
@@ -537,7 +537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_07-08-16-928.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_07-08-16-928.png"
 },{
   "id": "63",
   "name": "Seele #1",
@@ -545,7 +545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-51-04-187.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-51-04-187.png"
 },{
   "id": "64",
   "name": "Seele #2",
@@ -553,7 +553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_06-51-23-007.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_06-51-23-007.png"
 },{
   "id": "65",
   "name": "Seele #3",
@@ -561,7 +561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_07-06-15-949.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_07-06-15-949.png"
 },{
   "id": "66",
   "name": "Castorice #2",
@@ -569,7 +569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_09-10-54-195.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_09-10-54-195.png"
 },{
   "id": "67",
   "name": "Castorice #3",
@@ -577,7 +577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_09-11-11-434.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_09-11-11-434.png"
 },{
   "id": "68",
   "name": "Castorice #4",
@@ -585,7 +585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_09-11-29-537.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_09-11-29-537.png"
 },{
   "id": "69",
   "name": "Castorice #5",
@@ -593,7 +593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_09-11-45-680.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_09-11-45-680.png"
 },{
   "id": "70",
   "name": "Castorice x Polyxia #1",
@@ -601,7 +601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_09-15-52-352.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_09-15-52-352.png"
 },{
   "id": "71",
   "name": "Naruto Uzumaki #1",
@@ -609,7 +609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_14-51-32-176.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_14-51-32-176.png"
 },{
   "id": "72",
   "name": "Naruto Uzumaki #2",
@@ -617,7 +617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_14-51-48-904.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_14-51-48-904.png"
 },{
   "id": "73",
   "name": "Naruto Uzumaki #3",
@@ -625,7 +625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_14-52-05-136.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_14-52-05-136.png"
 },{
   "id": "74",
   "name": "Naruto & Sasuke #1",
@@ -633,7 +633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-27_14-52-58-015.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-27_14-52-58-015.png"
 },{
   "id": "75",
   "name": "Blade #1",
@@ -641,7 +641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-55-19-832.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-55-19-832.png"
 },{
   "id": "76",
   "name": "Blade #2",
@@ -649,7 +649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-55-36-230.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-55-36-230.png"
 },{
   "id": "77",
   "name": "Blade #3",
@@ -657,7 +657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-55-54-516.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-55-54-516.png"
 },{
   "id": "78",
   "name": "Blade #4",
@@ -665,7 +665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-56-07-905.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-56-07-905.png"
 },{
   "id": "79",
   "name": "Firefly #1",
@@ -673,7 +673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-57-12-650.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-57-12-650.png"
 },{
   "id": "80",
   "name": "Firefly #2",
@@ -681,7 +681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-57-28-868.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-57-28-868.png"
 },{
   "id": "81",
   "name": "Firefly #3",
@@ -689,7 +689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-57-45-461.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-57-45-461.png"
 },{
   "id": "82",
   "name": "Firefly #4",
@@ -697,7 +697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-58-07-021.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-58-07-021.png"
 },{
   "id": "83",
   "name": "Firefly #5",
@@ -705,7 +705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-58-24-748.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-58-24-748.png"
 },{
   "id": "84",
   "name": "Firefly #6",
@@ -713,7 +713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_00-58-40-001.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_00-58-40-001.png"
 },{
   "id": "85",
   "name": "Mydei #1",
@@ -721,7 +721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-00-29-568.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-00-29-568.png"
 },{
   "id": "86",
   "name": "Mydei #2",
@@ -729,7 +729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-00-47-154.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-00-47-154.png"
 },{
   "id": "87",
   "name": "Mydei #3",
@@ -737,7 +737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-01-03-678.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-01-03-678.png"
 },{
   "id": "88",
   "name": "Furina #1",
@@ -745,7 +745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-02-52-296.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-02-52-296.png"
 },{
   "id": "89",
   "name": "Furina #2",
@@ -753,7 +753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-03-13-559.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-03-13-559.png"
 },{
   "id": "90",
   "name": "Furina #3",
@@ -761,7 +761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-03-27-487.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-03-27-487.png"
 },{
   "id": "91",
   "name": "Rangiku Matsumoto #1",
@@ -769,7 +769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-35-02-217.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-35-02-217.png"
 },{
   "id": "92",
   "name": "Rangiku Matsumoto #2",
@@ -777,7 +777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-35-18-546.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-35-18-546.png"
 },{
   "id": "93",
   "name": "Toushirou & Rangiku #1",
@@ -785,7 +785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-36-18-306.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-36-18-306.png"
 },{
   "id": "94",
   "name": "Cinderella #1",
@@ -793,7 +793,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Cinderella1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Cinderella1.webp"
 },{
   "id": "95",
   "name": "Akane #1",
@@ -801,7 +801,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/akane1-oc.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/akane1-oc.webp"
 },{
   "id": "96",
   "name": "Orihime Inoue #1",
@@ -809,7 +809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-06-52-962.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-06-52-962.png"
 },{
   "id": "97",
   "name": "Orihime Inoue #2",
@@ -817,7 +817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-07-08-109.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-07-08-109.png"
 },{
   "id": "98",
   "name": "Orihime Inoue #3",
@@ -825,7 +825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-07-23-441.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-07-23-441.png"
 },{
   "id": "99",
   "name": "Ichigo Kurosaki #1",
@@ -833,7 +833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-09-59-767.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-09-59-767.png"
 },{
   "id": "100",
   "name": "Ichigo Kurosaki #2",
@@ -841,7 +841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_01-10-14-136.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_01-10-14-136.png"
 },{
   "id": "101",
   "name": "Maria Mikhailova Kujou #1",
@@ -849,7 +849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_11-57-19-448.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_11-57-19-448.webp"
 },{
   "id": "102",
   "name": "Yoruichi Shihouin #1",
@@ -857,7 +857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-33-09-886.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-33-09-886.png"
 },{
   "id": "103",
   "name": "Yoruichi Shihouin #2",
@@ -865,7 +865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-33-24-313.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-33-24-313.png"
 },{
   "id": "104",
   "name": "Saber (Kurohime) #1",
@@ -873,7 +873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-50-06-132.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-50-06-132.png"
 },{
   "id": "105",
   "name": "Saber (Kurohime) #2",
@@ -881,7 +881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-50-18-981.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-50-18-981.png"
 },{
   "id": "106",
   "name": "Saber (Kurohime) #3",
@@ -889,7 +889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-50-33-957.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-50-33-957.png"
 },{
   "id": "107",
   "name": "Rukia Kuchiki #1",
@@ -897,7 +897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-55-11-332.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-55-11-332.png"
 },{
   "id": "108",
   "name": "Rukia Kuchiki #2",
@@ -905,7 +905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-54-56-553.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-54-56-553.png"
 },{
   "id": "109",
   "name": "Rukia Kuchiki #3",
@@ -913,7 +913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-55-27-336.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-55-27-336.png"
 },{
   "id": "110",
   "name": "Rukia Kuchiki #4",
@@ -921,7 +921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Picsart_26-01-28_14-55-40-785.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Picsart_26-01-28_14-55-40-785.png"
 },{
   "id": "111",
   "name": "Levi Ackerman #1",
@@ -929,7 +929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_01-03-57-442_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_01-03-57-442_1.png"
 },{
   "id": "112",
   "name": "Levi Ackerman #2",
@@ -937,7 +937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_08-37-36-624.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_08-37-36-624.png"
 },{
   "id": "113",
   "name": "Levi Ackerman #3",
@@ -945,7 +945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_01-03-37-807_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_01-03-37-807_1.png"
 },{
   "id": "114",
   "name": "Eren Yeager #1",
@@ -953,7 +953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_01-12-26-235_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_01-12-26-235_1.png"
 },{
   "id": "115",
   "name": "Eren Yeager #2",
@@ -961,7 +961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_01-12-03-507_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_01-12-03-507_1.png"
 },{
   "id": "116",
   "name": "Eren Yeager #3",
@@ -969,7 +969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_01-11-33-508_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_01-11-33-508_1.png"
 },{
   "id": "117",
   "name": "Alisa Mikhailovna Kujou #2",
@@ -977,7 +977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-19-21-071_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-19-21-071_1.png"
 },{
   "id": "118",
   "name": "Alisa Mikhailovna Kujou #3",
@@ -985,7 +985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-19-03-410_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-19-03-410_1.png"
 },{
   "id": "119",
   "name": "Alisa Mikhailovna Kujou #4",
@@ -993,7 +993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-18-44-284_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-18-44-284_1.png"
 },{
   "id": "120",
   "name": "Alisa Mikhailovna Kujou #5",
@@ -1001,7 +1001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-19-39-315_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-19-39-315_1.png"
 },{
   "id": "121",
   "name": "Alisa Mikhailovna Kujou #6",
@@ -1009,7 +1009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-19-56-433_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-19-56-433_1.png"
 },{
   "id": "122",
   "name": "Maria Mikhailovna Kujou #1",
@@ -1017,7 +1017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-23-58-459_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-23-58-459_1.png"
 },{
   "id": "123",
   "name": "Maria Mikhailovna Kujou #2",
@@ -1025,7 +1025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-23-24-375_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-23-24-375_1.png"
 },{
   "id": "124",
   "name": "Maria Mikhailovna Kujou #3",
@@ -1033,7 +1033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-23-07-520_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-23-07-520_1.png"
 },{
   "id": "125",
   "name": "Maria Mikhailovna Kujou #4",
@@ -1041,7 +1041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-22-51-509_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-22-51-509_1.png"
 },{
   "id": "126",
   "name": "Yuki Suou #1",
@@ -1049,7 +1049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-26-27-257_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-26-27-257_1.png"
 },{
   "id": "127",
   "name": "Yuki Suou #2",
@@ -1057,7 +1057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-26-08-706_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-26-08-706_1.png"
 },{
   "id": "128",
   "name": "Yuki Suou #3",
@@ -1065,7 +1065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-25-51-725_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-25-51-725_1.png"
 },{
   "id": "129",
   "name": "Ai Hoshino #1",
@@ -1073,7 +1073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-31-45-207_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-31-45-207_1.png"
 },{
   "id": "130",
   "name": "Ai Hoshino #2",
@@ -1081,7 +1081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-32-35-927_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-32-35-927_1.png"
 },{
   "id": "131",
   "name": "Ai Hoshino #3",
@@ -1089,7 +1089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-32-08-194_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-32-08-194_1.png"
 },{
   "id": "132",
   "name": "Ai Hoshino #4",
@@ -1097,7 +1097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-33-19-140_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-33-19-140_1.png"
 },{
   "id": "133",
   "name": "Ai Hoshino #5",
@@ -1113,7 +1113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-36-50-234_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-36-50-234_1.png"
 },{
   "id": "135",
   "name": "Ruby Hoshino #2",
@@ -1121,7 +1121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-36-33-137_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-36-33-137_1.png"
 },{
   "id": "136",
   "name": "Ruby Hoshino #3",
@@ -1129,7 +1129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-36-16-278_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-36-16-278_1.png"
 },{
   "id": "137",
   "name": "Ruby Hoshino #4",
@@ -1137,7 +1137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-37-56-370_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-37-56-370_1.png"
 },{
   "id": "138",
   "name": "Ruby Hoshino #5",
@@ -1145,7 +1145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-37-40-332_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-37-40-332_1.png"
 },{
   "id": "139",
   "name": "Ruby Hoshino #6",
@@ -1153,7 +1153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-37-17-925_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-37-17-925_1.png"
 },{
   "id": "140",
   "name": "Aquamarine Hoshino #1",
@@ -1161,7 +1161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-42-27-920_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-42-27-920_1.png"
 },{
   "id": "141",
   "name": "Aquamarine Hoshino #2",
@@ -1169,7 +1169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-43-21-043_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-43-21-043_1.png"
 },{
   "id": "142",
   "name": "Aquamarine Hoshino #3",
@@ -1177,7 +1177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-42-45-547_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-42-45-547_1.png"
 },{
   "id": "143",
   "name": "Aquamarine Hoshino #4",
@@ -1185,7 +1185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-44-56-042_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-44-56-042_1.png"
 },{
   "id": "144",
   "name": "Aquamarine Hoshino #5",
@@ -1193,7 +1193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-44-34-086_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-44-34-086_1.png"
 },{
   "id": "145",
   "name": "Aquamarine Hoshino #6",
@@ -1201,7 +1201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-43-50-378_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-43-50-378_1.png"
 },{
   "id": "146",
   "name": "Marin Kitagawa #1",
@@ -1209,7 +1209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-51-05-429_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-51-05-429_1.png"
 },{
   "id": "147",
   "name": "Marin Kitagawa #2",
@@ -1217,7 +1217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-50-04-709_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-50-04-709_1.png"
 },{
   "id": "148",
   "name": "Marin Kitagawa #3",
@@ -1225,7 +1225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-49-47-713_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-49-47-713_1.png"
 },{
   "id": "149",
   "name": "Marin Kitagawa #4",
@@ -1233,7 +1233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-49-31-433_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-49-31-433_1.png"
 },{
   "id": "150",
   "name": "Maomao #1",
@@ -1241,7 +1241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-56-46-582_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-56-46-582_1.png"
 },{
   "id": "151",
   "name": "Maomao #2",
@@ -1249,7 +1249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-56-18-052_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-56-18-052_1.png"
 },{
   "id": "152",
   "name": "Maomao #3",
@@ -1257,7 +1257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-55-49-978_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-55-49-978_1.png"
 },{
   "id": "153",
   "name": "Maomao #4",
@@ -1265,7 +1265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-58-31-770_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-58-31-770_1.png"
 },{
   "id": "154",
   "name": "Maomao #5",
@@ -1273,7 +1273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-58-01-227_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-58-01-227_1.png"
 },{
   "id": "155",
   "name": "Maomao #6",
@@ -1281,7 +1281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_03-57-05-468_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_03-57-05-468_1.png"
 },{
   "id": "156",
   "name": "Saber #2",
@@ -1289,7 +1289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-33-00-283_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-33-00-283_1.png"
 },{
   "id": "157",
   "name": "Saber #3",
@@ -1297,7 +1297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-32-39-859_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-32-39-859_1.png"
 },{
   "id": "158",
   "name": "Saber #4",
@@ -1305,7 +1305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-32-25-816_2.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-32-25-816_2.png"
 },{
   "id": "159",
   "name": "Delta #1",
@@ -1313,7 +1313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-42-06-213_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-42-06-213_1.png"
 },{
   "id": "160",
   "name": "Delta #2",
@@ -1321,7 +1321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-41-42-095_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-41-42-095_1.png"
 },{
   "id": "161",
   "name": "Delta #3",
@@ -1329,7 +1329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-41-26-839_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-41-26-839_1.png"
 },{
   "id": "162",
   "name": "Delta #4",
@@ -1337,7 +1337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-42-25-949_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-42-25-949_1.png"
 },{
   "id": "163",
   "name": "Alpha #1",
@@ -1345,7 +1345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-45-29-783_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-45-29-783_1.png"
 },{
   "id": "164",
   "name": "Alpha #2",
@@ -1353,7 +1353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-45-44-118_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-45-44-118_1.png"
 },{
   "id": "165",
   "name": "Alpha #3",
@@ -1361,7 +1361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-46-00-118_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-46-00-118_1.png"
 },{
   "id": "166",
   "name": "Alpha #4",
@@ -1369,7 +1369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-46-14-361_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-46-14-361_1.png"
 },{
   "id": "167",
   "name": "Alpha #5",
@@ -1377,7 +1377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-47-04-868_1-1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-47-04-868_1-1.png"
 },{
   "id": "168",
   "name": "Alpha #6",
@@ -1385,7 +1385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-46-48-899_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-46-48-899_1.png"
 },{
   "id": "169",
   "name": "Alpha #7",
@@ -1393,7 +1393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-46-30-376_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-46-30-376_1.png"
 },{
   "id": "170",
   "name": "Aurora #1",
@@ -1401,7 +1401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-50-39-019_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-50-39-019_1.png"
 },{
   "id": "171",
   "name": "Aurora #2",
@@ -1409,7 +1409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-50-21-742_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-50-21-742_1.png"
 },{
   "id": "172",
   "name": "Aurora #3",
@@ -1417,7 +1417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-50-07-982_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-50-07-982_1.png"
 },{
   "id": "173",
   "name": "Augusta #1",
@@ -1425,7 +1425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-52-49-289_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-52-49-289_1.png"
 },{
   "id": "174",
   "name": "Augusta #2",
@@ -1433,7 +1433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-53-30-942_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-53-30-942_1.png"
 },{
   "id": "175",
   "name": "Augusta #3",
@@ -1441,7 +1441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-53-17-243_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-53-17-243_1.png"
 },{
   "id": "176",
   "name": "Mornye #1",
@@ -1449,7 +1449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-56-44-408_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-56-44-408_1.png"
 },{
   "id": "177",
   "name": "Mornye #2",
@@ -1457,7 +1457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-57-00-811_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-57-00-811_1.png"
 },{
   "id": "178",
   "name": "Mornye #3",
@@ -1465,7 +1465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-57-15-568_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-57-15-568_1.png"
 },{
   "id": "179",
   "name": "Mornye #4",
@@ -1473,7 +1473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-57-52-168_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-57-52-168_1.png"
 },{
   "id": "180",
   "name": "Mornye #5",
@@ -1481,7 +1481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_04-58-11-740_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_04-58-11-740_1.png"
 },{
   "id": "181",
   "name": "Galbrena #1",
@@ -1489,7 +1489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_05-00-48-486_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_05-00-48-486_1.png"
 },{
   "id": "182",
   "name": "Galbrena #2",
@@ -1497,7 +1497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_05-00-33-919_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_05-00-33-919_1.png"
 },{
   "id": "183",
   "name": "Galbrena #3",
@@ -1505,7 +1505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_05-00-17-723_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_05-00-17-723_1.png"
 },{
   "id": "184",
   "name": "Galbrena #4",
@@ -1513,7 +1513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-01-31_05-00-02-527_1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-01-31_05-00-02-527_1.png"
 },{
   "id": "185",
   "name": "Gojou & Marin #1",
@@ -1521,7 +1521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-07_14-03-08-844.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-07_14-03-08-844.webp"
 },{
   "id": "186",
   "name": "Gojou & Marin #2",
@@ -1529,7 +1529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-07_14-00-32-978.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-07_14-00-32-978.webp"
 },{
   "id": "187",
   "name": "Maomao & Jinshi #1",
@@ -1537,7 +1537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-07_14-07-30-015.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-07_14-07-30-015.webp"
 },{
   "id": "188",
   "name": "Maomao & Jinshi #2",
@@ -1545,7 +1545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-07_14-06-25-202.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-07_14-06-25-202.webp"
 },{
   "id": "189",
   "name": "Maomao & Jinshi #3",
@@ -1553,7 +1553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-07_14-05-32-519.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-07_14-05-32-519.webp"
 },{
   "id": "190",
   "name": "Sakura & Saber #1",
@@ -1561,7 +1561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-48-13-193.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-48-13-193.webp"
 },{
   "id": "191",
   "name": "Mornye & Rover #1",
@@ -1569,7 +1569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-50-33-094.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-50-33-094.webp"
 },{
   "id": "192",
   "name": "Mornye & Cartethiya #1",
@@ -1577,7 +1577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-53-46-821.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-53-46-821.webp"
 },{
   "id": "193",
   "name": "Delta & Zeta #1",
@@ -1585,7 +1585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-54-41-646.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-54-41-646.webp"
 },{
   "id": "194",
   "name": "Miku & Miku #1",
@@ -1593,7 +1593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-56-17-099.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-56-17-099.webp"
 },{
   "id": "195",
   "name": "Tanjiro & Nezuko #1",
@@ -1601,7 +1601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_00-58-13-106.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_00-58-13-106.webp"
 },{
   "id": "196",
   "name": "Nezuko & Shinobu #1",
@@ -1609,7 +1609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_01-01-19-867.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_01-01-19-867.webp"
 },{
   "id": "197",
   "name": "Tengen & Rengoku #1",
@@ -1617,7 +1617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_01-02-39-858.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_01-02-39-858.webp"
 },{
   "id": "198",
   "name": "Shio & Shirotae #1",
@@ -1625,7 +1625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_02-50-18-981.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_02-50-18-981.webp"
 },{
   "id": "199",
   "name": "Aiona & Lamia #1",
@@ -1633,7 +1633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_03-12-40-966.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_03-12-40-966.webp"
 },{
   "id": "200",
   "name": "Reze & Makima #1",
@@ -1641,7 +1641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_03-13-52-893.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_03-13-52-893.webp"
 },{
   "id": "201",
   "name": "Chisato & Takina #1",
@@ -1649,7 +1649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-08_03-17-15-549.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-08_03-17-15-549.webp"
 },{
   "id": "202",
   "name": "Shen & Luo #1",
@@ -1657,7 +1657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-12-47-262.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-12-47-262.webp"
 },{
   "id": "203",
   "name": "Shen & Luo #2",
@@ -1665,7 +1665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-13-17-647.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-13-17-647.webp"
 },{
   "id": "204",
   "name": "Lan & Wei #1",
@@ -1673,7 +1673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-48-48-945.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-48-48-945.webp"
 },{
   "id": "205",
   "name": "Lan & Wei #2",
@@ -1681,7 +1681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-27-40-155.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-27-40-155.webp"
 },{
   "id": "206",
   "name": "Lan & Wei #3",
@@ -1689,7 +1689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-27-59-422.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-27-59-422.webp"
 },{
   "id": "207",
   "name": "Yuki & Momo #1",
@@ -1697,7 +1697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-09_15-46-05-223.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-09_15-46-05-223.webp"
 },{
   "id": "208",
   "name": "Hikaru & Yoshiki #1",
@@ -1705,7 +1705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-10_23-33-59-569.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-10_23-33-59-569.webp"
 },{
   "id": "209",
   "name": "Hua & Xie #1",
@@ -1713,7 +1713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-10_23-36-00-025.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-10_23-36-00-025.webp"
 },{
   "id": "210",
   "name": "Hua & Xie #2",
@@ -1721,7 +1721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-10_23-34-57-915.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-10_23-34-57-915.webp"
 },{
   "id": "211",
   "name": "Shiraori & Ariel #1",
@@ -1729,7 +1729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-11_00-23-55-105.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-11_00-23-55-105.webp"
 },{
   "id": "212",
   "name": "Kurumi & Hibiki #1",
@@ -1737,7 +1737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Picsart_26-02-11_00-23-06-322.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Picsart_26-02-11_00-23-06-322.webp"
 },{
   "id": "213",
   "name": "Kim Dokja #1",
@@ -1745,7 +1745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_14-12-55-933.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_14-12-55-933.webp"
 },{
   "id": "214",
   "name": "Kim Dokja #2",
@@ -1753,7 +1753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_14-13-45-233.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_14-13-45-233.webp"
 },{
   "id": "215",
   "name": "Grimnir #1",
@@ -1761,7 +1761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-01-49-227.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-01-49-227.webp"
 },{
   "id": "216",
   "name": "Yuki Suou #4",
@@ -1769,7 +1769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-03-19-396.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-03-19-396.webp"
 },{
   "id": "217",
   "name": "Kim Dokja #3",
@@ -1777,7 +1777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_14-20-58-758.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_14-20-58-758.webp"
 },{
   "id": "218",
   "name": "Cid Kagenou #1",
@@ -1785,7 +1785,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ Mid & Slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/cid1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/cid1.webp"
 },{
   "id": "219",
   "name": "Alpha #8",
@@ -1793,7 +1793,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/alpha8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/alpha8.webp"
 },{
   "id": "220",
   "name": "Aventurine #4",
@@ -1801,7 +1801,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/project_2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/project_2.webp"
 },{
   "id": "221",
   "name": "Yae Sakura #1",
@@ -1809,7 +1809,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/yaesakura1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/yaesakura1.webp"
 },{
   "id": "222",
   "name": "Sagiri Yamada Asaemon #1",
@@ -1817,7 +1817,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ soldier_of_christt",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/IMG_2227_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/IMG_2227_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "223",
   "name": "Marin Kitagawa #5",
@@ -1825,7 +1825,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/marin5-val.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/marin5-val.webp"
 },{
   "id": "224",
   "name": "Mai Sakurajima #1",
@@ -1833,7 +1833,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/maisakurajima2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/maisakurajima2.webp"
 },{
   "id": "225",
   "name": "Zero Two #1",
@@ -1841,7 +1841,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/zerotwo1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/zerotwo1.webp"
 },{
   "id": "226",
   "name": "Levi Ackerman #4",
@@ -1849,7 +1849,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/levi3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/levi3.webp"
 },{
   "id": "227",
   "name": "Micchon Shikimori #1",
@@ -1857,7 +1857,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/shikimori1-val.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/shikimori1-val.webp"
 },{
   "id": "228",
   "name": "Kotori Itsuka #1",
@@ -1865,7 +1865,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/kotori-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/kotori-1.webp"
 },{
   "id": "229",
   "name": "Yoshino Himekawa #1",
@@ -1873,7 +1873,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/yoshino1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/yoshino1.webp"
 },{
   "id": "230",
   "name": "Kurumi Tokisaki #1",
@@ -1881,7 +1881,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/kurumi8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/kurumi8.webp"
 },{
   "id": "231",
   "name": "Acheron #5",
@@ -1889,7 +1889,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/acheron5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/acheron5.webp"
 },{
   "id": "232",
   "name": "Yelan #1",
@@ -1897,7 +1897,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/Untitled270_20260209192307.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/Untitled270_20260209192307.webp"
 },{
   "id": "233",
   "name": "Mikasa Ackerman #1",
@@ -1905,7 +1905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-38-54-955.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-38-54-955.webp"
 },{
   "id": "234",
   "name": "Hu Tao #1",
@@ -1913,7 +1913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-25-55-127.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-25-55-127.webp"
 },{
   "id": "235",
   "name": "Hu Tao #2",
@@ -1921,7 +1921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-26-18-970.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-26-18-970.webp"
 },{
   "id": "236",
   "name": "Hu Tao #3",
@@ -1929,7 +1929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-26-41-546.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-26-41-546.webp"
 },{
   "id": "237",
   "name": "Hu Tao #4",
@@ -1937,7 +1937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-27-03-140.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-27-03-140.webp"
 },{
   "id": "238",
   "name": "Hu Tao #5",
@@ -1945,7 +1945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-27-36-427.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-27-36-427.webp"
 },{
   "id": "239",
   "name": "Kurumi Tokisaki #2",
@@ -1953,7 +1953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-32-10-993.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-32-10-993.webp"
 },{
   "id": "240",
   "name": "Kurumi Tokisaki #3",
@@ -1961,7 +1961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-33-15-754.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-33-15-754.webp"
 },{
   "id": "241",
   "name": "Kurumi Tokisaki #4",
@@ -1969,7 +1969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-37-43-280.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-37-43-280.webp"
 },{
   "id": "242",
   "name": "Kurumi Tokisaki #5",
@@ -1977,7 +1977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-42-35-975.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-42-35-975.webp"
 },{
   "id": "243",
   "name": "Kurumi Tokisaki #6",
@@ -1985,7 +1985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-41-44-166.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-41-44-166.webp"
 },{
   "id": "244",
   "name": "Kurumi Tokisaki #7",
@@ -1993,7 +1993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-11_15-39-00-800.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-11_15-39-00-800.webp"
 },{
   "id": "245",
   "name": "Itsuki #1",
@@ -2001,7 +2001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-28-38-111.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-28-38-111.webp"
 },{
   "id": "246",
   "name": "Ruby & Aqua #1",
@@ -2009,7 +2009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-30-47-369.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-30-47-369.webp"
 },{
   "id": "247",
   "name": "Rosa & Kei #1",
@@ -2017,7 +2017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-31-40-897.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-31-40-897.webp"
 },{
   "id": "248",
   "name": "Gilbert Bougainvillea #1",
@@ -2025,7 +2025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-33-03-896.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-33-03-896.webp"
 },{
   "id": "249",
   "name": "Violet Evergarden #1",
@@ -2033,7 +2033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-35-42-378.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-35-42-378.webp"
 },{
   "id": "250",
   "name": "Alice Zuberg #1",
@@ -2041,7 +2041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-38-31-574.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-38-31-574.webp"
 },{
   "id": "251",
   "name": "Alice Zuberg #2",
@@ -2049,7 +2049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_00-39-12-999.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_00-39-12-999.webp"
 },{
   "id": "252",
   "name": "Graypnir #1",
@@ -2057,7 +2057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_01-30-24-723.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_01-30-24-723.webp"
 },{
   "id": "253",
   "name": "Mitsuba Sousuke #1",
@@ -2065,7 +2065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_01-34-57-626.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_01-34-57-626.webp"
 },{
   "id": "254",
   "name": "Lan & Wei #4",
@@ -2073,7 +2073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_01-48-03-640.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_01-48-03-640.webp"
 },{
   "id": "255",
   "name": "Hua & Xie #3",
@@ -2081,7 +2081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_01-49-17-439.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_01-49-17-439.webp"
 },{
   "id": "256",
   "name": "Lilith #1",
@@ -2089,7 +2089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-38-12-973.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-38-12-973.webp"
 },{
   "id": "257",
   "name": "Ganyu #1",
@@ -2097,7 +2097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-40-19-809.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-40-19-809.webp"
 },{
   "id": "258",
   "name": "Valentine Astral #1",
@@ -2105,7 +2105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-35-02-806.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-35-02-806.webp"
 },{
   "id": "259",
   "name": "Mafuyu Asahina #1",
@@ -2113,7 +2113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-56-26-155.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-56-26-155.webp"
 },{
   "id": "260",
   "name": "Cid Kagenou #2",
@@ -2121,7 +2121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-47-06-255.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-47-06-255.webp"
 },{
   "id": "261",
   "name": "Claire Kagenou #1",
@@ -2129,7 +2129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_13-42-20-690.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_13-42-20-690.webp"
 },{
   "id": "262",
   "name": "Mizuki Akiyama #1",
@@ -2137,7 +2137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-13_14-02-37-371.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-13_14-02-37-371.webp"
 },{
   "id": "263",
   "name": "Alisa Mikhailovna Kujou #7",
@@ -2145,7 +2145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-11_02-45-41-679.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-11_02-45-41-679.webp"
 },{
   "id": "264",
   "name": "Delta #5",
@@ -2153,7 +2153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-11_02-32-49-947.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-11_02-32-49-947.webp"
 },{
   "id": "265",
   "name": "Miku & Kaito #1",
@@ -2161,7 +2161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-21-07-535.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-21-07-535.webp"
 },{
   "id": "266",
   "name": "Hatsune Miku #1",
@@ -2169,7 +2169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-14-29-778.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-14-29-778.webp"
 },{
   "id": "267",
   "name": "Hatsune Miku #2",
@@ -2177,7 +2177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-18-24-274.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-18-24-274.webp"
 },{
   "id": "268",
   "name": "Charlotte Chloe #1",
@@ -2185,7 +2185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-15-47-489.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-15-47-489.webp"
 },{
   "id": "269",
   "name": "Albedo #1",
@@ -2193,7 +2193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-42-15-820.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-42-15-820.webp"
 },{
   "id": "270",
   "name": "Alpha #9",
@@ -2201,7 +2201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-41-14-571.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-41-14-571.webp"
 },{
   "id": "271",
   "name": "Mita #1",
@@ -2209,7 +2209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-26-18-076.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-26-18-076.webp"
 },{
   "id": "272",
   "name": "Minato Aqua #1",
@@ -2217,7 +2217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-56-30-924.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-56-30-924.webp"
 },{
   "id": "273",
   "name": "Fuyuki Minami #1",
@@ -2225,7 +2225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-53-14-785.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-53-14-785.webp"
 },{
   "id": "274",
   "name": "Lucia #1",
@@ -2233,7 +2233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-57-19-137.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-57-19-137.webp"
 },{
   "id": "275",
   "name": "Lyney #1",
@@ -2241,7 +2241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-51-39-160.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-51-39-160.webp"
 },{
   "id": "276",
   "name": "Kamisato Ayaka #1",
@@ -2249,7 +2249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-48-46-672.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-48-46-672.webp"
 },{
   "id": "277",
   "name": "Misa Amane #1",
@@ -2257,7 +2257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-19-27-863.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-19-27-863.webp"
 },{
   "id": "278",
   "name": "Jean #1",
@@ -2265,7 +2265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-17-54-008.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-17-54-008.webp"
 },{
   "id": "279",
   "name": "Himari Uehara #1",
@@ -2273,7 +2273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_16-58-58-978.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_16-58-58-978.webp"
 },{
   "id": "280",
   "name": "YangYang #1",
@@ -2281,7 +2281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-22-31-457.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-22-31-457.webp"
 },{
   "id": "281",
   "name": "Kanade Yoisaki #1",
@@ -2289,7 +2289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-21-19-296.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-21-19-296.webp"
 },{
   "id": "282",
   "name": "Holo #1",
@@ -2297,7 +2297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-26-20-314.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-26-20-314.webp"
 },{
   "id": "283",
   "name": "Ena Shinonome #1",
@@ -2305,7 +2305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-25-42-267.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-25-42-267.webp"
 },{
   "id": "284",
   "name": "Selina x Lanbird #1",
@@ -2313,7 +2313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-23-33-706.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-23-33-706.webp"
 },{
   "id": "285",
   "name": "Chixia #1",
@@ -2321,7 +2321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-32-12-765.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-32-12-765.webp"
 },{
   "id": "286",
   "name": "Miroku #1",
@@ -2329,7 +2329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-30-17-897.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-30-17-897.webp"
 },{
   "id": "287",
   "name": "Shino x Ren #1",
@@ -2337,7 +2337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-28-06-599.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-28-06-599.webp"
 },{
   "id": "288",
   "name": "Mochizuki Honami #1",
@@ -2345,7 +2345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-27-19-286.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-27-19-286.webp"
 },{
   "id": "289",
   "name": "Akane x Akito #1",
@@ -2353,7 +2353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-37-04-314.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-37-04-314.webp"
 },{
   "id": "290",
   "name": "Kirito & Asuna #1",
@@ -2361,7 +2361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-36-19-489.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-36-19-489.webp"
 },{
   "id": "291",
   "name": "Boa Hancock #1",
@@ -2369,7 +2369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-35-32-259.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-35-32-259.webp"
 },{
   "id": "292",
   "name": "Ayn Alwyn x Heroine #1",
@@ -2377,7 +2377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-34-12-379.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-34-12-379.webp"
 },{
   "id": "293",
   "name": "Rias Gremory #2",
@@ -2385,7 +2385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Picsart_26-02-14_17-32-54-668.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Picsart_26-02-14_17-32-54-668.webp"
 },{
   "id": "294",
   "name": "Sylus #1",
@@ -2393,7 +2393,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/godly%20sylus%20-%201.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/godly%20sylus%20-%201.webp"
 },{
   "id": "295",
   "name": "Astolfo #1",
@@ -2401,7 +2401,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Picsart_26-02-17_14-27-32-310.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Picsart_26-02-17_14-27-32-310.webp"
 },{
   "id": "296",
   "name": "Till #1",
@@ -2409,7 +2409,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/till-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/till-1.webp"
 },{
   "id": "297",
   "name": "Lupa #1",
@@ -2417,7 +2417,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/lupa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/lupa1.webp"
 },{
   "id": "298",
   "name": "Acheron #6",
@@ -2425,7 +2425,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art |Made By » Slept & Mid",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/acheron6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/acheron6.webp"
 },{
   "id": "299",
   "name": "Ivan & Till #1",
@@ -2433,7 +2433,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/Untitled285_20260217223504_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/Untitled285_20260217223504_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "300",
   "name": "Ivan & Till #2",
@@ -2441,7 +2441,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Valentine",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Valentine/Untitled285_20260217220238_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Valentine/Untitled285_20260217220238_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "301",
   "name": "Furina #4",
@@ -2449,7 +2449,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/furina4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/furina4.webp"
 },{
   "id": "302",
   "name": "Gabimaru #1",
@@ -2457,7 +2457,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art |Made By » soldier_of_christt",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/IMG_2236_waifu2x_art_scan_noise3_scale_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/IMG_2236_waifu2x_art_scan_noise3_scale_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "303",
   "name": "Yoichi Nagumo #1",
@@ -2465,7 +2465,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/IMG_9482-removebg-preview_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/IMG_9482-removebg-preview_1.webp"
 },{
   "id": "304",
   "name": "Kokuyou #1",
@@ -2473,7 +2473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-43-28-270.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-43-28-270.webp"
 },{
   "id": "305",
   "name": "Aventurine #5",
@@ -2481,7 +2481,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Picsart_26-02-22_08-01-01-953.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Picsart_26-02-22_08-01-01-953.webp"
 },{
   "id": "307",
   "name": "Alisa Mikhailovna Kujou #8",
@@ -2489,7 +2489,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/alisa8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/alisa8.webp"
 },{
   "id": "308",
   "name": "Vira #1",
@@ -2497,7 +2497,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Picsart_26-02-22_13-03-17-329.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Picsart_26-02-22_13-03-17-329.webp"
 },{
   "id": "309",
   "name": "Ayano Kimishima #1",
@@ -2505,7 +2505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-04-14-335.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-04-14-335.webp"
 },{
   "id": "310",
   "name": "Kafka #7",
@@ -2513,7 +2513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-05-31-372.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-05-31-372.webp"
 },{
   "id": "311",
   "name": "Alisa Mikhailovna Kujou #9",
@@ -2521,7 +2521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-06-23-823.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-06-23-823.webp"
 },{
   "id": "312",
   "name": "The Dahlia #1",
@@ -2529,7 +2529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-07-51-058.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-07-51-058.webp"
 },{
   "id": "313",
   "name": "Kana Sukoya #1",
@@ -2537,7 +2537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-08-55-595.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-08-55-595.webp"
 },{
   "id": "314",
   "name": "Emu Ootori #1",
@@ -2545,7 +2545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-09-51-274.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-09-51-274.webp"
 },{
   "id": "315",
   "name": "Nqrse #1",
@@ -2553,7 +2553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-14-51-853.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-14-51-853.webp"
 },{
   "id": "316",
   "name": "KAngel #1",
@@ -2561,7 +2561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-16-22-203.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-16-22-203.webp"
 },{
   "id": "317",
   "name": "Kriemhild #1",
@@ -2569,7 +2569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-30-39-442.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-30-39-442.webp"
 },{
   "id": "318",
   "name": "Katsuragi #1",
@@ -2577,7 +2577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-32-06-204.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-32-06-204.webp"
 },{
   "id": "319",
   "name": "Ikaruga #1",
@@ -2585,7 +2585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-33-48-067.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-33-48-067.webp"
 },{
   "id": "320",
   "name": "Mochizuki Honami #2",
@@ -2593,7 +2593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-36-06-924.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-36-06-924.webp"
 },{
   "id": "321",
   "name": "Shadow Milk Cookie #1",
@@ -2601,7 +2601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-1.webp"
 },{
   "id": "322",
   "name": "Jacqueline #1",
@@ -2609,7 +2609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-39-12-571.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-39-12-571.webp"
 },{
   "id": "323",
   "name": "Rebecca #1",
@@ -2617,7 +2617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-41-30-218.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-41-30-218.webp"
 },{
   "id": "324",
   "name": "Ichika Hoshino #1",
@@ -2625,7 +2625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-44-34-474.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-44-34-474.webp"
 },{
   "id": "325",
   "name": "Akane Koumoto #1",
@@ -2633,7 +2633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-46-02-034.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-46-02-034.webp"
 },{
   "id": "326",
   "name": "Darkness #1",
@@ -2641,7 +2641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-47-31-585.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-47-31-585.webp"
 },{
   "id": "327",
   "name": "Firefly #7",
@@ -2649,7 +2649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-54-01-716.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-54-01-716.webp"
 },{
   "id": "328",
   "name": "Rappa #1",
@@ -2657,7 +2657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-56-16-307.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-56-16-307.webp"
 },{
   "id": "329",
   "name": "Castorice #6",
@@ -2665,7 +2665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-57-06-654.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-57-06-654.webp"
 },{
   "id": "330",
   "name": "Sharkry #1",
@@ -2673,7 +2673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_12-58-40-743.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_12-58-40-743.webp"
 },{
   "id": "331",
   "name": "Helm #1",
@@ -2681,7 +2681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-02-06-964.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-02-06-964.webp"
 },{
   "id": "332",
   "name": "Scarlet #1",
@@ -2689,7 +2689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-03-08-557.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-03-08-557.webp"
 },{
   "id": "333",
   "name": "Crown & Modernia #1",
@@ -2697,7 +2697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-04-42-695.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-04-42-695.webp"
 },{
   "id": "334",
   "name": "Blanc #1",
@@ -2705,7 +2705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-05-53-554.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-05-53-554.webp"
 },{
   "id": "335",
   "name": "Cid Highwind #1",
@@ -2713,7 +2713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-08-31-709.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-08-31-709.webp"
 },{
   "id": "336",
   "name": "Cloud Strife #1",
@@ -2721,7 +2721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-09-38-524.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-09-38-524.webp"
 },{
   "id": "337",
   "name": "Aerith Gainsborough #1",
@@ -2729,7 +2729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-12-35-519.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-12-35-519.webp"
 },{
   "id": "338",
   "name": "Kanade Yoisaki #2",
@@ -2737,7 +2737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-16-25-897.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-16-25-897.webp"
 },{
   "id": "339",
   "name": "Ichika Hoshino #2",
@@ -2745,7 +2745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-16-53-897.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-16-53-897.webp"
 },{
   "id": "340",
   "name": "Tifa Lockhart #1",
@@ -2753,7 +2753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-21-47-490.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-21-47-490.webp"
 },{
   "id": "341",
   "name": "Wolfa Amadea #1",
@@ -2761,7 +2761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-25-22-827.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-25-22-827.webp"
 },{
   "id": "342",
   "name": "Taiki Shuttle #1",
@@ -2769,7 +2769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-29-44-025.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-29-44-025.webp"
 },{
   "id": "343",
   "name": "Jacqueline #2",
@@ -2777,7 +2777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-35-22-829.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-35-22-829.webp"
 },{
   "id": "344",
   "name": "Mami Nanami #1",
@@ -2785,7 +2785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-49-08-873.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-49-08-873.webp"
 },{
   "id": "345",
   "name": "Misaki Ayuzawa & Takumi Usui #1",
@@ -2793,7 +2793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-51-05-981.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-51-05-981.webp"
 },{
   "id": "346",
   "name": "Toma & MC #1",
@@ -2801,7 +2801,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-52-10-058.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-52-10-058.webp"
 },{
   "id": "347",
   "name": "Shin #1",
@@ -2809,7 +2809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-52-46-667.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-52-46-667.webp"
 },{
   "id": "348",
   "name": "Asahi Shiki #1",
@@ -2817,7 +2817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-09-15-613.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-09-15-613.webp"
 },{
   "id": "349",
   "name": "Ashe Heartseeker #1",
@@ -2825,7 +2825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-11-35-728.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-11-35-728.webp"
 },{
   "id": "350",
   "name": "Momo Hinamori #1",
@@ -2833,7 +2833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-12-45-692.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-12-45-692.webp"
 },{
   "id": "351",
   "name": "Yachiru Kusajishi #1",
@@ -2841,7 +2841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-14-20-066.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-14-20-066.webp"
 },{
   "id": "352",
   "name": "Sweetheart Sona #1",
@@ -2849,7 +2849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-15-00-600.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-15-00-600.webp"
 },{
   "id": "353",
   "name": "Medicia #1",
@@ -2857,7 +2857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-17-11-777.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-17-11-777.webp"
 },{
   "id": "354",
   "name": "Nelliel Tu Odelschwanck #1",
@@ -2865,7 +2865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-18-10-519.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-18-10-519.webp"
 },{
   "id": "355",
   "name": "Miwoki Wasurena #1",
@@ -2873,7 +2873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-24-19-622.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-24-19-622.webp"
 },{
   "id": "356",
   "name": "Nilou #1",
@@ -2881,7 +2881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-24-49-693.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-24-49-693.webp"
 },{
   "id": "357",
   "name": "Shenhe #1",
@@ -2889,7 +2889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-25-38-714.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-25-38-714.webp"
 },{
   "id": "358",
   "name": "Keqing #1",
@@ -2897,7 +2897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-26-39-938.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-26-39-938.webp"
 },{
   "id": "359",
   "name": "Itsuki Nakano #1",
@@ -2905,7 +2905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-27-53-307.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-27-53-307.webp"
 },{
   "id": "360",
   "name": "Miku Nakano #1",
@@ -2913,7 +2913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-30-46-278.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-30-46-278.webp"
 },{
   "id": "361",
   "name": "Nino Nakano #1",
@@ -2921,7 +2921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-32-27-107.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-32-27-107.webp"
 },{
   "id": "362",
   "name": "Sakura Nanamine #1",
@@ -2929,7 +2929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-33-28-823.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-33-28-823.webp"
 },{
   "id": "363",
   "name": "Annie Leonhardt #1",
@@ -2937,7 +2937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-35-15-912.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-35-15-912.webp"
 },{
   "id": "364",
   "name": "Asuka #1",
@@ -2945,7 +2945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_13-00-29-756.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_13-00-29-756.webp"
 },{
   "id": "365",
   "name": "Sotetsu #1",
@@ -2953,7 +2953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-49-43-060.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-49-43-060.webp"
 },{
   "id": "366",
   "name": "Qu #1",
@@ -2961,7 +2961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-50-42-860.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-50-42-860.webp"
 },{
   "id": "367",
   "name": "Takami #1",
@@ -2969,7 +2969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-51-52-630.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-51-52-630.webp"
 },{
   "id": "368",
   "name": "Takami #2",
@@ -2977,7 +2977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-52-02-996.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-52-02-996.webp"
 },{
   "id": "369",
   "name": "Akira #1",
@@ -2985,7 +2985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-53-09-311.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-53-09-311.webp"
 },{
   "id": "370",
   "name": "Shin #2",
@@ -2993,7 +2993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-53-53-689.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-53-53-689.webp"
 },{
   "id": "371",
   "name": "Taiga #1",
@@ -3001,7 +3001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-54-53-137.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-54-53-137.webp"
 },{
   "id": "372",
   "name": "Mokuren #1",
@@ -3009,7 +3009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-56-04-262.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-56-04-262.webp"
 },{
   "id": "373",
   "name": "Zakuro #1",
@@ -3017,7 +3017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-56-22-939.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-56-22-939.webp"
 },{
   "id": "374",
   "name": "Hari #1",
@@ -3025,7 +3025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-57-55-713.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-57-55-713.webp"
 },{
   "id": "375",
   "name": "Kasumi #1",
@@ -3033,7 +3033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_14-59-35-563.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_14-59-35-563.webp"
 },{
   "id": "376",
   "name": "Yae Miko #1",
@@ -3041,7 +3041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-01-15-061.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-01-15-061.webp"
 },{
   "id": "377",
   "name": "Mai Sakurajima #2",
@@ -3049,7 +3049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-03-35-549.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-03-35-549.webp"
 },{
   "id": "378",
   "name": "Ruby Hoshino #7",
@@ -3057,7 +3057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-04-36-427.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-04-36-427.webp"
 },{
   "id": "379",
   "name": "Cheng Xiaoshi #1",
@@ -3065,7 +3065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-05-39-359.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-05-39-359.webp"
 },{
   "id": "380",
   "name": "Navia Casper #1",
@@ -3073,7 +3073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-17-28-793.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-17-28-793.webp"
 },{
   "id": "381",
   "name": "Oliver #1",
@@ -3081,7 +3081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-18-34-352.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-18-34-352.webp"
 },{
   "id": "382",
   "name": "Mahiru Shiina #2",
@@ -3089,7 +3089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-19-40-267.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-19-40-267.webp"
 },{
   "id": "383",
   "name": "Shion #1",
@@ -3097,7 +3097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-20-19-285.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-20-19-285.webp"
 },{
   "id": "384",
   "name": "Lu Guang #1",
@@ -3105,7 +3105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-22-05-651.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-22-05-651.webp"
 },{
   "id": "385",
   "name": "Qiao Ling #1",
@@ -3113,7 +3113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-23-25-473.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-23-25-473.webp"
 },{
   "id": "386",
   "name": "Asmodeus #1",
@@ -3121,7 +3121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-33-25-535.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-33-25-535.webp"
 },{
   "id": "387",
   "name": "Satan #1",
@@ -3129,7 +3129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-52-53-982.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-52-53-982.webp"
 },{
   "id": "388",
   "name": "Asmodeus #2",
@@ -3137,7 +3137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_15-53-41-903.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_15-53-41-903.webp"
 },{
   "id": "389",
   "name": "Mammon #1",
@@ -3145,7 +3145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-02-16-416.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-02-16-416.webp"
 },{
   "id": "390",
   "name": "Solomon #1",
@@ -3153,7 +3153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-05-34-698.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-05-34-698.webp"
 },{
   "id": "391",
   "name": "Asmodeus #3",
@@ -3161,7 +3161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-06-36-898.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-06-36-898.webp"
 },{
   "id": "392",
   "name": "Satan #2",
@@ -3169,7 +3169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-07-31-302.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-07-31-302.webp"
 },{
   "id": "393",
   "name": "Leviathan #1",
@@ -3177,7 +3177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-08-20-850.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-08-20-850.webp"
 },{
   "id": "394",
   "name": "Beelzebub #1",
@@ -3185,7 +3185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-11-01-552.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-11-01-552.webp"
 },{
   "id": "395",
   "name": "Lucifer #1",
@@ -3193,7 +3193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-12-24-860.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-12-24-860.webp"
 },{
   "id": "396",
   "name": "Belphegor #1",
@@ -3201,7 +3201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_16-23-27-315.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_16-23-27-315.webp"
 },{
   "id": "397",
   "name": "Lu Feng #1",
@@ -3209,7 +3209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_19-48-39-876.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_19-48-39-876.webp"
 },{
   "id": "398",
   "name": "An Zhe #1",
@@ -3217,7 +3217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-22_19-51-06-451.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-22_19-51-06-451.webp"
 },{
   "id": "399",
   "name": "Siesta #1",
@@ -3225,7 +3225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_09-54-26-734.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_09-54-26-734.webp"
 },{
   "id": "400",
   "name": "Asuna #1",
@@ -3233,7 +3233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_09-58-31-433.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_09-58-31-433.webp"
 },{
   "id": "401",
   "name": "Privaty #1",
@@ -3241,7 +3241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-03-27-718.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-03-27-718.webp"
 },{
   "id": "402",
   "name": "Aquamarine Hoshino #7",
@@ -3249,7 +3249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-05-09-517.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-05-09-517.webp"
 },{
   "id": "403",
   "name": "Akane Kurokawa #1",
@@ -3257,7 +3257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-09-57-836.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-09-57-836.webp"
 },{
   "id": "404",
   "name": "Tsukasa Tenma #1",
@@ -3265,7 +3265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-12-06-236.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-12-06-236.webp"
 },{
   "id": "405",
   "name": "Sion Eltnam #1",
@@ -3273,7 +3273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-14-47-039.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-14-47-039.webp"
 },{
   "id": "406",
   "name": "Akito Shinonome #1",
@@ -3281,7 +3281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-16-57-040.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-16-57-040.webp"
 },{
   "id": "407",
   "name": "Nene Yashiro #1",
@@ -3289,7 +3289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-24-32-815.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-24-32-815.webp"
 },{
   "id": "408",
   "name": "Hanako-Kun #1",
@@ -3297,7 +3297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-26-31-338.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-26-31-338.webp"
 },{
   "id": "409",
   "name": "Tsukasa Yugi #1",
@@ -3305,7 +3305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-29-11-694.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-29-11-694.webp"
 },{
   "id": "410",
   "name": "Kou Minamoto #1",
@@ -3313,7 +3313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-36-26-481.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-36-26-481.webp"
 },{
   "id": "411",
   "name": "Ichika Nakano #1",
@@ -3321,7 +3321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-51-28-416.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-51-28-416.webp"
 },{
   "id": "412",
   "name": "Saki Tenma #1",
@@ -3329,7 +3329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-53-15-726.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-53-15-726.webp"
 },{
   "id": "413",
   "name": "Kohane Azusawa #1",
@@ -3337,7 +3337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_10-56-26-254.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_10-56-26-254.webp"
 },{
   "id": "414",
   "name": "Kana Arima #1",
@@ -3345,7 +3345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Valentine",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Valentine/Part%202/Picsart_26-02-23_09-56-35-052.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Valentine/Part%202/Picsart_26-02-23_09-56-35-052.webp"
 },{
   "id": "415",
   "name": "Mahiru Shiina & Amane Fujimiya #1",
@@ -3353,7 +3353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-23-49-771.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-23-49-771.webp"
 },{
   "id": "416",
   "name": "Mahiru Shiina & Amane Fujimiya #2",
@@ -3361,7 +3361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-26-40-511.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-26-40-511.webp"
 },{
   "id": "417",
   "name": "Yoo Joonghyuk x Kim Dokja #1",
@@ -3369,7 +3369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-32-29-617.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-32-29-617.webp"
 },{
   "id": "418",
   "name": "Yoo Joonghyuk x Kim Dokja #2",
@@ -3377,7 +3377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-32-39-883.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-32-39-883.webp"
 },{
   "id": "419",
   "name": "Yoo Joonghyuk x Kim Dokja #3",
@@ -3385,7 +3385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-33-03-442.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-33-03-442.webp"
 },{
   "id": "420",
   "name": "Yoo Joonghyuk x Kim Dokja #4",
@@ -3393,7 +3393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-34-35-220.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-34-35-220.webp"
 },{
   "id": "421",
   "name": "Yoo Joonghyuk x Kim Dokja #5",
@@ -3401,7 +3401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent%20duo/Patch%202/Picsart_26-02-23_13-34-53-944.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent%20duo/Patch%202/Picsart_26-02-23_13-34-53-944.webp"
 },{
   "id": "422",
   "name": "Ilay Riegrow #1",
@@ -3409,7 +3409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-19-00-762.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-19-00-762.webp"
 },{
   "id": "423",
   "name": "Ilay Riegrow #2",
@@ -3417,7 +3417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-19-18-340.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-19-18-340.webp"
 },{
   "id": "424",
   "name": "Ilay Riegrow #3",
@@ -3425,7 +3425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-19-38-586.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-19-38-586.webp"
 },{
   "id": "425",
   "name": "Ilay Riegrow #4",
@@ -3433,7 +3433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-20-13-366.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-20-13-366.webp"
 },{
   "id": "426",
   "name": "Mahiru Shiina #3",
@@ -3441,7 +3441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-30-09-584.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-30-09-584.webp"
 },{
   "id": "427",
   "name": "Sua #1",
@@ -3449,7 +3449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-48-34-043.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-48-34-043.webp"
 },{
   "id": "428",
   "name": "Sua #2",
@@ -3457,7 +3457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-48-42-874.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-48-42-874.webp"
 },{
   "id": "429",
   "name": "Sua #3",
@@ -3465,7 +3465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-48-50-000.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-48-50-000.webp"
 },{
   "id": "430",
   "name": "Sua #4",
@@ -3473,7 +3473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-04-11-883.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-04-11-883.webp"
 },{
   "id": "431",
   "name": "Mizi #1",
@@ -3481,7 +3481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base%20-%202/Picsart_26-02-23_13-54-21-758.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base%20-%202/Picsart_26-02-23_13-54-21-758.webp"
 },{
   "id": "432",
   "name": "Mizi #2",
@@ -3489,7 +3489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-54-27-809.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-54-27-809.webp"
 },{
   "id": "433",
   "name": "Mizi #3",
@@ -3497,7 +3497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_13-54-35-538.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_13-54-35-538.webp"
 },{
   "id": "434",
   "name": "Mizi #4",
@@ -3505,7 +3505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-03-20-525.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-03-20-525.webp"
 },{
   "id": "435",
   "name": "Ivan #1",
@@ -3513,7 +3513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-15-42-476.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-15-42-476.webp"
 },{
   "id": "436",
   "name": "Ivan #2",
@@ -3521,7 +3521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-16-23-411.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-16-23-411.webp"
 },{
   "id": "437",
   "name": "Ivan #3",
@@ -3529,7 +3529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-16-40-489.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-16-40-489.webp"
 },{
   "id": "438",
   "name": "Ivan #4",
@@ -3537,7 +3537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-20-20-464.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-20-20-464.webp"
 },{
   "id": "439",
   "name": "Till #2",
@@ -3545,7 +3545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-24-30-039.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-24-30-039.webp"
 },{
   "id": "440",
   "name": "Till #3",
@@ -3553,7 +3553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-25-01-180.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-25-01-180.webp"
 },{
   "id": "441",
   "name": "Till #4",
@@ -3561,7 +3561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-25-12-156.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-25-12-156.webp"
 },{
   "id": "442",
   "name": "Till #5",
@@ -3569,7 +3569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-25-49-717.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-25-49-717.webp"
 },{
   "id": "443",
   "name": "Hyuna #1",
@@ -3577,7 +3577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-56-32-919.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-56-32-919.webp"
 },{
   "id": "444",
   "name": "Hyuna #2",
@@ -3585,7 +3585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_14-56-43-265.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_14-56-43-265.webp"
 },{
   "id": "445",
   "name": "Hyuna #3",
@@ -3593,7 +3593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_15-04-48-064.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_15-04-48-064.webp"
 },{
   "id": "446",
   "name": "Hyuna #4",
@@ -3601,7 +3601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_15-06-21-779.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_15-06-21-779.webp"
 },{
   "id": "447",
   "name": "Luka #1",
@@ -3609,7 +3609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_15-46-44-263.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_15-46-44-263.webp"
 },{
   "id": "448",
   "name": "Luka #2",
@@ -3617,7 +3617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_15-46-52-132.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_15-46-52-132.webp"
 },{
   "id": "449",
   "name": "Shiki #1",
@@ -3625,7 +3625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_19-39-19-682-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_19-39-19-682-1.webp"
 },{
   "id": "450",
   "name": "Shino Saotome #1",
@@ -3633,7 +3633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_21-32-32-431.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_21-32-32-431.webp"
 },{
   "id": "451",
   "name": "Shino Saotome #2",
@@ -3641,7 +3641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_21-32-52-913.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_21-32-52-913.webp"
 },{
   "id": "452",
   "name": "Isaac Foster #1",
@@ -3649,7 +3649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Base/Base/Picsart_26-02-23_21-35-21-075.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Base/Base/Picsart_26-02-23_21-35-21-075.webp"
 },{
   "id": "453",
   "name": "Akira #2",
@@ -3657,7 +3657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent/Picsart_26-02-23_22-39-42-021.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/Picsart_26-02-23_22-39-42-021.webp"
 },{
   "id": "454",
   "name": "Ren Shirayuki #1",
@@ -3665,7 +3665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent/Picsart_26-02-23_22-42-30-833.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/Picsart_26-02-23_22-42-30-833.webp"
 },{
   "id": "455",
   "name": "Ado #1",
@@ -3673,7 +3673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent/Picsart_26-02-24_00-23-13-692.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/Picsart_26-02-24_00-23-13-692.webp"
 },{
   "id": "456",
   "name": "Johan Liebert #1",
@@ -3681,7 +3681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent/Picsart_26-02-24_12-51-48-593.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/Picsart_26-02-24_12-51-48-593.webp"
 },{
   "id": "457",
   "name": "Kokomi #1",
@@ -3689,7 +3689,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled244_20260301131503_waifu2x_art_scan_noise3_scale_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled244_20260301131503_waifu2x_art_scan_noise3_scale_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "458",
   "name": "Hyuna & Luka #1",
@@ -3697,7 +3697,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Valentine",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled285_20260223124355-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled285_20260223124355-1.webp"
 },{
   "id": "459",
   "name": "Mizi & Sua #1",
@@ -3705,7 +3705,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled285_20260223125649-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled285_20260223125649-1.webp"
 },{
   "id": "460",
   "name": "Psylocke #1",
@@ -3713,7 +3713,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled288_20260301153852_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled288_20260301153852_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "461",
   "name": "Kim Dokja #4",
@@ -3721,7 +3721,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled292_20260220134953-1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled292_20260220134953-1_1.webp"
 },{
   "id": "462",
   "name": "Anaxa #1",
@@ -3729,7 +3729,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D/Untitled304_20260227222546_waifu2x_art_scan_noise3_scale.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D/Untitled304_20260227222546_waifu2x_art_scan_noise3_scale.webp"
 },{
   "id": "463",
   "name": "Ciaccona #1",
@@ -3737,7 +3737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-1.webp"
 },{
   "id": "464",
   "name": "Ado #2",
@@ -3745,7 +3745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-10.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-10.webp"
 },{
   "id": "465",
   "name": "Emilia #1",
@@ -3753,7 +3753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-11.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-11.webp"
 },{
   "id": "466",
   "name": "Isolde #1",
@@ -3761,7 +3761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-12.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-12.webp"
 },{
   "id": "467",
   "name": "Yae Miko #2",
@@ -3769,7 +3769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-13.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-13.webp"
 },{
   "id": "468",
   "name": "Yelan #2",
@@ -3777,7 +3777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-14.webp"
 },{
   "id": "469",
   "name": "Prometheus #1",
@@ -3785,7 +3785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-15.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-15.webp"
 },{
   "id": "470",
   "name": "Seele Vollerei #1",
@@ -3793,7 +3793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-16.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-16.webp"
 },{
   "id": "471",
   "name": "Eishin Flash #1",
@@ -3801,7 +3801,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-17.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-17.webp"
 },{
   "id": "472",
   "name": "Yelan #3",
@@ -3809,7 +3809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-18.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-18.webp"
 },{
   "id": "473",
   "name": "Pardofelis #1",
@@ -3817,7 +3817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-19.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-19.webp"
 },{
   "id": "474",
   "name": "Lupa #2",
@@ -3825,7 +3825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-2.webp"
 },{
   "id": "475",
   "name": "Seele Vollerei #2",
@@ -3833,7 +3833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-20.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-20.webp"
 },{
   "id": "476",
   "name": "El Condor Pasa #1",
@@ -3841,7 +3841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-21.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-21.webp"
 },{
   "id": "477",
   "name": "Admire Groove #1",
@@ -3849,7 +3849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-22.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-22.webp"
 },{
   "id": "478",
   "name": "Zhuge Kongming #1",
@@ -3857,7 +3857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-23.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-23.webp"
 },{
   "id": "479",
   "name": "Eula #1",
@@ -3865,7 +3865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-24.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-24.webp"
 },{
   "id": "480",
   "name": "El Condor Pasa #2",
@@ -3873,7 +3873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-25.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-25.webp"
 },{
   "id": "481",
   "name": "Misteln Schariac #1",
@@ -3881,7 +3881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-26.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-26.webp"
 },{
   "id": "482",
   "name": "Rita Rossweisse #1",
@@ -3889,7 +3889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-27.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-27.webp"
 },{
   "id": "483",
   "name": "Raiden Shogun #1",
@@ -3897,7 +3897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-28.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-28.webp"
 },{
   "id": "484",
   "name": "Kobo Kanaeru #1",
@@ -3905,7 +3905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-29.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-29.webp"
 },{
   "id": "485",
   "name": "Qiuyuan #2",
@@ -3913,7 +3913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-3.webp"
 },{
   "id": "486",
   "name": "Rita Rossweisse #2",
@@ -3921,7 +3921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-30.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-30.webp"
 },{
   "id": "487",
   "name": "Eishin Flash #2",
@@ -3929,7 +3929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-31.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-31.webp"
 },{
   "id": "488",
   "name": "Mona #1",
@@ -3937,7 +3937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-32.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-32.webp"
 },{
   "id": "489",
   "name": "Espoir City #1",
@@ -3945,7 +3945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-33.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-33.webp"
 },{
   "id": "490",
   "name": "Xianyun #1",
@@ -3953,7 +3953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-35.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-35.webp"
 },{
   "id": "491",
   "name": "Xie Lian #1",
@@ -3961,7 +3961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-34.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-34.webp"
 },{
   "id": "492",
   "name": "Hua Cheng #1",
@@ -3969,7 +3969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-36.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-36.webp"
 },{
   "id": "493",
   "name": "Xianyun #2",
@@ -3977,7 +3977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-37.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-37.webp"
 },{
   "id": "494",
   "name": "Fenomeno #1",
@@ -3985,7 +3985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-38.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-38.webp"
 },{
   "id": "495",
   "name": "Emilia #2",
@@ -3993,7 +3993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-39.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-39.webp"
 },{
   "id": "496",
   "name": "Mornye #6",
@@ -4001,7 +4001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-4.webp"
 },{
   "id": "497",
   "name": "Mona #2",
@@ -4009,7 +4009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-40.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-40.webp"
 },{
   "id": "498",
   "name": "El Condor Pasa #3",
@@ -4017,7 +4017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-41.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-41.webp"
 },{
   "id": "499",
   "name": "Raven #1",
@@ -4025,7 +4025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-42.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-42.webp"
 },{
   "id": "500",
   "name": "Emilia #3",
@@ -4033,7 +4033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-43.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-43.webp"
 },{
   "id": "501",
   "name": "Yae Miko #3",
@@ -4041,7 +4041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-44.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-44.webp"
 },{
   "id": "502",
   "name": "Sirin #1",
@@ -4049,7 +4049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-45.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-45.webp"
 },{
   "id": "503",
   "name": "Yae Sakura #2",
@@ -4057,7 +4057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-46.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-46.webp"
 },{
   "id": "504",
   "name": "Rin Kagamine #1",
@@ -4065,7 +4065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-47.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-47.webp"
 },{
   "id": "505",
   "name": "Susannah Manatt #1",
@@ -4073,7 +4073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-48.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-48.webp"
 },{
   "id": "506",
   "name": "Eternity #1",
@@ -4081,7 +4081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-49.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-49.webp"
 },{
   "id": "507",
   "name": "Aemeath #1",
@@ -4089,7 +4089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-5.webp"
 },{
   "id": "508",
   "name": "Kakania #1",
@@ -4097,7 +4097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-50.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-50.webp"
 },{
   "id": "509",
   "name": "Luuk #1",
@@ -4105,7 +4105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-6.webp"
 },{
   "id": "510",
   "name": "Veliona #1",
@@ -4113,7 +4113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-7.webp"
 },{
   "id": "511",
   "name": "Himeko Murata #1",
@@ -4121,7 +4121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-8.webp"
 },{
   "id": "512",
   "name": "Kevin Kaslana #1",
@@ -4129,7 +4129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card/Card-9.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card/Card-9.webp"
 },{
   "id": "513",
   "name": "Nami #2",
@@ -4137,7 +4137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-101.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-101.webp"
 },{
   "id": "514",
   "name": "Dark Sakura #1",
@@ -4145,7 +4145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-102.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-102.webp"
 },{
   "id": "515",
   "name": "Uruha Ichinose #1",
@@ -4153,7 +4153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-109.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-109.webp"
 },{
   "id": "516",
   "name": "Loki #1",
@@ -4161,7 +4161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-11.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-11.webp"
 },{
   "id": "517",
   "name": "Tanya Von Degurechaff #1",
@@ -4169,7 +4169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-111.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-111.webp"
 },{
   "id": "518",
   "name": "Aemeath #2",
@@ -4177,7 +4177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-112.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-112.webp"
 },{
   "id": "519",
   "name": "Yumi Shiina #1",
@@ -4185,7 +4185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-114.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-114.webp"
 },{
   "id": "520",
   "name": "Sakamata Chloe #1",
@@ -4193,7 +4193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-115.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-115.webp"
 },{
   "id": "521",
   "name": "Hua Cheng #2",
@@ -4201,7 +4201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-116.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-116.webp"
 },{
   "id": "522",
   "name": "Trigger #1",
@@ -4209,7 +4209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-117.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-117.webp"
 },{
   "id": "523",
   "name": "Juufuutei Raden #1",
@@ -4217,7 +4217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-119.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-119.webp"
 },{
   "id": "524",
   "name": "Enkidu #1",
@@ -4225,7 +4225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-120.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-120.webp"
 },{
   "id": "525",
   "name": "Petra Gurin #1",
@@ -4233,7 +4233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-121.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-121.webp"
 },{
   "id": "526",
   "name": "Luuk #2",
@@ -4241,7 +4241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-123.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-123.webp"
 },{
   "id": "527",
   "name": "Avywenna #1",
@@ -4249,7 +4249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-125.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-125.webp"
 },{
   "id": "528",
   "name": "Mochizuki Honami #3",
@@ -4257,7 +4257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-126.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-126.webp"
 },{
   "id": "529",
   "name": "Lady Avalon #1",
@@ -4265,7 +4265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-127.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-127.webp"
 },{
   "id": "530",
   "name": "Psylocke #2",
@@ -4273,7 +4273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-131.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-131.webp"
 },{
   "id": "531",
   "name": "Kikirara Vivi #1",
@@ -4281,7 +4281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-133.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-133.webp"
 },{
   "id": "532",
   "name": "Inori Yuzuriha #2",
@@ -4289,7 +4289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-134.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-134.webp"
 },{
   "id": "533",
   "name": "Nakiri Ayame #1",
@@ -4297,7 +4297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-135.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-135.webp"
 },{
   "id": "534",
   "name": "Lucy Heartfilia #1",
@@ -4305,7 +4305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-136.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-136.webp"
 },{
   "id": "535",
   "name": "Isaki Riona #1",
@@ -4313,7 +4313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-137.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-137.webp"
 },{
   "id": "536",
   "name": "Scarlet #2",
@@ -4321,7 +4321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-14.webp"
 },{
   "id": "537",
   "name": "Vladilena Milizé #1",
@@ -4329,7 +4329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-18.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-18.webp"
 },{
   "id": "538",
   "name": "Snake Fruit Cookie #1",
@@ -4337,7 +4337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-19.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-19.webp"
 },{
   "id": "539",
   "name": "An Shiraishi #1",
@@ -4345,7 +4345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-2.webp"
 },{
   "id": "540",
   "name": "Camellya #1",
@@ -4353,7 +4353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-22.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-22.webp"
 },{
   "id": "541",
   "name": "Lyseria Christaria #1",
@@ -4361,7 +4361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-23.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-23.webp"
 },{
   "id": "542",
   "name": "Rem #1",
@@ -4369,7 +4369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-24.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-24.webp"
 },{
   "id": "543",
   "name": "Zeta #1",
@@ -4377,7 +4377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-27.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-27.webp"
 },{
   "id": "544",
   "name": "Xie Lian #2",
@@ -4385,7 +4385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-28.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-28.webp"
 },{
   "id": "545",
   "name": "Crown #1",
@@ -4393,7 +4393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-31.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-31.webp"
 },{
   "id": "546",
   "name": "The Dahlia #2",
@@ -4401,7 +4401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-33.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-33.webp"
 },{
   "id": "547",
   "name": "Phrolova #1",
@@ -4409,7 +4409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-36.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-36.webp"
 },{
   "id": "548",
   "name": "Rowena #1",
@@ -4417,7 +4417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-38.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-38.webp"
 },{
   "id": "549",
   "name": "Rem #2",
@@ -4425,7 +4425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-4.webp"
 },{
   "id": "550",
   "name": "Anby #1",
@@ -4433,7 +4433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-40.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-40.webp"
 },{
   "id": "551",
   "name": "Hatsune Miku #3",
@@ -4441,7 +4441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-41.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-41.webp"
 },{
   "id": "552",
   "name": "Malleus Draconia #1",
@@ -4449,7 +4449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-43.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-43.webp"
 },{
   "id": "553",
   "name": "Noah Kurumi #1",
@@ -4457,7 +4457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-46.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-46.webp"
 },{
   "id": "554",
   "name": "Pure Vanilla Cookie #1",
@@ -4465,7 +4465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-47.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-47.webp"
 },{
   "id": "555",
   "name": "Pardofelis #2",
@@ -4473,7 +4473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-48.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-48.webp"
 },{
   "id": "556",
   "name": "Akaza #1",
@@ -4481,7 +4481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-58.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-58.webp"
 },{
   "id": "557",
   "name": "Mikasa Ackerman #2",
@@ -4489,7 +4489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-6.webp"
 },{
   "id": "558",
   "name": "Touya Aoyagi #1",
@@ -4497,7 +4497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-63.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-63.webp"
 },{
   "id": "559",
   "name": "Mimi Tosaki #1",
@@ -4505,7 +4505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-64.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-64.webp"
 },{
   "id": "560",
   "name": "Hua Cheng #3",
@@ -4513,7 +4513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-65.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-65.webp"
 },{
   "id": "561",
   "name": "Oriana Rose #1",
@@ -4521,7 +4521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-67.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-67.webp"
 },{
   "id": "562",
   "name": "Nakime #1",
@@ -4529,7 +4529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-70.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-70.webp"
 },{
   "id": "563",
   "name": "Miku Nakano #2",
@@ -4537,7 +4537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-71.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-71.webp"
 },{
   "id": "564",
   "name": "Yinlin #1",
@@ -4545,7 +4545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-77.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-77.webp"
 },{
   "id": "565",
   "name": "Mimi Tosaki #2",
@@ -4553,7 +4553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-79.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-79.webp"
 },{
   "id": "566",
   "name": "Fine Motion #1",
@@ -4561,7 +4561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-8.webp"
 },{
   "id": "567",
   "name": "Itsuki Nakano #2",
@@ -4569,7 +4569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-80.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-80.webp"
 },{
   "id": "568",
   "name": "Alkaid McGrath #1",
@@ -4577,7 +4577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-84.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-84.webp"
 },{
   "id": "569",
   "name": "Mahiru Shiina #4",
@@ -4585,7 +4585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-90.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-90.webp"
 },{
   "id": "570",
   "name": "Malleus Draconia #2",
@@ -4593,7 +4593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-92.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-92.webp"
 },{
   "id": "571",
   "name": "An Shiraishi #2",
@@ -4601,7 +4601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-93.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-93.webp"
 },{
   "id": "572",
   "name": "Ye Shunguang #1",
@@ -4609,7 +4609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-94.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-94.webp"
 },{
   "id": "573",
   "name": "Rias Gremory #3",
@@ -4617,7 +4617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-96.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-96.webp"
 },{
   "id": "574",
   "name": "Zenitsu Agatsuma #1",
@@ -4625,7 +4625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-98.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-98.webp"
 },{
   "id": "575",
   "name": "Mahiru Shiina #5",
@@ -4633,7 +4633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-2/Card-99.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-99.webp"
 },{
   "id": "576",
   "name": "Luke Davis #1",
@@ -4641,7 +4641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-10.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-10.webp"
 },{
   "id": "577",
   "name": "Ren Amamiya #1",
@@ -4649,7 +4649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-100.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-100.webp"
 },{
   "id": "578",
   "name": "Aemeath #3",
@@ -4657,7 +4657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-103.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-103.webp"
 },{
   "id": "579",
   "name": "Rin Tohsaka #1",
@@ -4665,7 +4665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-104.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-104.webp"
 },{
   "id": "580",
   "name": "Sumire Kaga #1",
@@ -4673,7 +4673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-105.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-105.webp"
 },{
   "id": "581",
   "name": "Columbina #2",
@@ -4681,7 +4681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-106.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-106.webp"
 },{
   "id": "582",
   "name": "Childe #1",
@@ -4689,7 +4689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-107.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-107.webp"
 },{
   "id": "583",
   "name": "Uruha Ichinose #2",
@@ -4697,7 +4697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-108.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-108.webp"
 },{
   "id": "584",
   "name": "Columbina #3",
@@ -4705,7 +4705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-110.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-110.webp"
 },{
   "id": "585",
   "name": "Denji #1",
@@ -4713,7 +4713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-113.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-113.webp"
 },{
   "id": "586",
   "name": "Yor Briar #1",
@@ -4721,7 +4721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-118.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-118.webp"
 },{
   "id": "587",
   "name": "Erza Scarlet #1",
@@ -4729,7 +4729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-12.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-12.webp"
 },{
   "id": "588",
   "name": "Giyu Tomioka #1",
@@ -4737,7 +4737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-124.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-124.webp"
 },{
   "id": "589",
   "name": "Yuki Cross #1",
@@ -4745,7 +4745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-129.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-129.webp"
 },{
   "id": "590",
   "name": "Muichiro Tokito #1",
@@ -4753,7 +4753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-13.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-13.webp"
 },{
   "id": "591",
   "name": "Psylocke #3",
@@ -4761,7 +4761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-132.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-132.webp"
 },{
   "id": "592",
   "name": "Cana Alberona #1",
@@ -4769,7 +4769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-15.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-15.webp"
 },{
   "id": "593",
   "name": "Juvia Lockser #1",
@@ -4777,7 +4777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-16.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-16.webp"
 },{
   "id": "594",
   "name": "Satoru Gojo #2",
@@ -4785,7 +4785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-17.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-17.webp"
 },{
   "id": "595",
   "name": "Iguro Obanai #1",
@@ -4793,7 +4793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-20.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-20.webp"
 },{
   "id": "596",
   "name": "Phrolova #2",
@@ -4809,7 +4809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-25.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-25.webp"
 },{
   "id": "598",
   "name": "Nazuna Kaga #2",
@@ -4817,7 +4817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-26.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-26.webp"
 },{
   "id": "599",
   "name": "Sanemi Shinazugawa #1",
@@ -4825,7 +4825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-29.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-29.webp"
 },{
   "id": "600",
   "name": "Carlotta #1",
@@ -4833,7 +4833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-3.webp"
 },{
   "id": "601",
   "name": "Gyomei Himejima #1",
@@ -4841,7 +4841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-30.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-30.webp"
 },{
   "id": "602",
   "name": "Frieren #1",
@@ -4849,7 +4849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-32.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-32.webp"
 },{
   "id": "603",
   "name": "Emma #1",
@@ -4857,7 +4857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-35.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-35.webp"
 },{
   "id": "604",
   "name": "Yu Narukami #1",
@@ -4865,7 +4865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-37.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-37.webp"
 },{
   "id": "605",
   "name": "Fenrys #1",
@@ -4873,7 +4873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-39.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-39.webp"
 },{
   "id": "606",
   "name": "Kaoruko Waguri #1",
@@ -4881,7 +4881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-44.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-44.webp"
 },{
   "id": "607",
   "name": "Kanade Yoisaki #3",
@@ -4889,7 +4889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-45.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-45.webp"
 },{
   "id": "608",
   "name": "Little Mermaid #1",
@@ -4897,7 +4897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-49.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-49.webp"
 },{
   "id": "609",
   "name": "Galahad #1",
@@ -4905,7 +4905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-5.webp"
 },{
   "id": "610",
   "name": "Moona Hoshinova #1",
@@ -4913,7 +4913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-50.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-50.webp"
 },{
   "id": "611",
   "name": "Shinobu Kocho #1",
@@ -4921,7 +4921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-51.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-51.webp"
 },{
   "id": "612",
   "name": "Weiss Schnee #1",
@@ -4929,7 +4929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-52.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-52.webp"
 },{
   "id": "613",
   "name": "Makima #1",
@@ -4937,7 +4937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-53.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-53.webp"
 },{
   "id": "614",
   "name": "Mizuki Akiyama #2",
@@ -4945,7 +4945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-54.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-54.webp"
 },{
   "id": "615",
   "name": "Hatsune Miku #4",
@@ -4953,7 +4953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-55.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-55.webp"
 },{
   "id": "616",
   "name": "Sakura Matou #1",
@@ -4961,7 +4961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-56.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-56.webp"
 },{
   "id": "617",
   "name": "Kaoruko Waguri #2",
@@ -4969,7 +4969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-57.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-57.webp"
 },{
   "id": "618",
   "name": "Merlin #1",
@@ -4977,7 +4977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-59.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-59.webp"
 },{
   "id": "619",
   "name": "Mami Nanami #2",
@@ -4985,7 +4985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-60.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-60.webp"
 },{
   "id": "620",
   "name": "Mitsuri Kanroji #2",
@@ -4993,7 +4993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-61.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-61.webp"
 },{
   "id": "621",
   "name": "Lohengrin #1",
@@ -5001,7 +5001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-62.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-62.webp"
 },{
   "id": "622",
   "name": "Sumire Kaga #2",
@@ -5009,7 +5009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-66.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-66.webp"
 },{
   "id": "623",
   "name": "Yuji Itadori #1",
@@ -5017,7 +5017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-68.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-68.webp"
 },{
   "id": "624",
   "name": "Merlin #2",
@@ -5025,7 +5025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-69.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-69.webp"
 },{
   "id": "625",
   "name": "Necrologist #1",
@@ -5033,7 +5033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-7.webp"
 },{
   "id": "626",
   "name": "Lauma #1",
@@ -5041,7 +5041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-72.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-72.webp"
 },{
   "id": "627",
   "name": "Carlotta #2",
@@ -5049,7 +5049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-73.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-73.webp"
 },{
   "id": "628",
   "name": "Elaina #1",
@@ -5057,7 +5057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-74.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-74.webp"
 },{
   "id": "629",
   "name": "Tsukasa Tenma #2",
@@ -5065,7 +5065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-75.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-75.webp"
 },{
   "id": "630",
   "name": "Lauma #2",
@@ -5073,7 +5073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-76.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-76.webp"
 },{
   "id": "631",
   "name": "Mami Nanami #3",
@@ -5081,7 +5081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-78.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-78.webp"
 },{
   "id": "632",
   "name": "Beatrice #1",
@@ -5089,7 +5089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-81.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-81.webp"
 },{
   "id": "633",
   "name": "Neuvillette #1",
@@ -5097,7 +5097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-82.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-82.webp"
 },{
   "id": "634",
   "name": "Albedo #2",
@@ -5105,7 +5105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-83.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-83.webp"
 },{
   "id": "635",
   "name": "Mizuki Akiyama #3",
@@ -5113,7 +5113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-86.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-86.webp"
 },{
   "id": "636",
   "name": "Mitsuri Kanroji #3",
@@ -5121,7 +5121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-87.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-87.webp"
 },{
   "id": "637",
   "name": "An Shiraishi #3",
@@ -5129,7 +5129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-88.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-88.webp"
 },{
   "id": "638",
   "name": "Hatsune Miku #5",
@@ -5137,7 +5137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-89.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-89.webp"
 },{
   "id": "639",
   "name": "Kaoruko Waguri #3",
@@ -5145,7 +5145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-9.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-9.webp"
 },{
   "id": "640",
   "name": "Gilgamesh #1",
@@ -5153,7 +5153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-91.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-91.webp"
 },{
   "id": "641",
   "name": "Mash Kyrielight #1",
@@ -5161,7 +5161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-95.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-95.webp"
 },{
   "id": "642",
   "name": "Psylocke #4",
@@ -5169,7 +5169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Card-3/Card-97.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-3/Card-97.webp"
 },{
   "id": "643",
   "name": "Alisa Mikhailovna Kujou #10",
@@ -5177,7 +5177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Alisa-Mikhailovna-Kujou10.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alisa-Mikhailovna-Kujou10.webp"
 },{
   "id": "644",
   "name": "Alma #1",
@@ -5185,7 +5185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Alma1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alma1.webp"
 },{
   "id": "645",
   "name": "Alpha #10",
@@ -5193,7 +5193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Alpha1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Alpha1.webp"
 },{
   "id": "646",
   "name": "Aqua #2",
@@ -5201,7 +5201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Aqua2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Aqua2.webp"
 },{
   "id": "647",
   "name": "Artoria Pendragon #1",
@@ -5209,7 +5209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Artoria-Pendragon1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Artoria-Pendragon1.webp"
 },{
   "id": "648",
   "name": "Bailu #1",
@@ -5217,7 +5217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Bailu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Bailu1.webp"
 },{
   "id": "649",
   "name": "Bambinata #1",
@@ -5225,7 +5225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Bambinata1-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Bambinata1-1.webp"
 },{
   "id": "650",
   "name": "Bronya Zaychik #1",
@@ -5233,7 +5233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/BronyaZ1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/BronyaZ1.webp"
 },{
   "id": "651",
   "name": "Chisa #1",
@@ -5241,7 +5241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Chisa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Chisa2.webp"
 },{
   "id": "652",
   "name": "Cielle #1",
@@ -5249,7 +5249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Cielle1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Cielle1.webp"
 },{
   "id": "653",
   "name": "Dan Heng #1",
@@ -5257,7 +5257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/DanHeng1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/DanHeng1.webp"
 },{
   "id": "654",
   "name": "Dian Wenren #1",
@@ -5265,7 +5265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Dian-Wenren1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Dian-Wenren1.webp"
 },{
   "id": "655",
   "name": "Eileen #1",
@@ -5273,7 +5273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Eileen1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Eileen1.webp"
 },{
   "id": "656",
   "name": "Emilia #4",
@@ -5281,7 +5281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Emilia4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Emilia4.webp"
 },{
   "id": "657",
   "name": "Flavia #1",
@@ -5289,7 +5289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Flavia1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Flavia1_1.webp"
 },{
   "id": "658",
   "name": "Frieren #2",
@@ -5297,7 +5297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Frieren2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Frieren2.webp"
 },{
   "id": "659",
   "name": "Haruka Kiritani #1",
@@ -5305,7 +5305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/HaruKiri1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/HaruKiri1.webp"
 },{
   "id": "660",
   "name": "Hatsune Miku #6",
@@ -5313,7 +5313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/HatsuneMiku4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/HatsuneMiku4.webp"
 },{
   "id": "661",
   "name": "Hestia #1",
@@ -5321,7 +5321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Hestia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Hestia1.webp"
 },{
   "id": "662",
   "name": "Holo #2",
@@ -5329,7 +5329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Holo2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Holo2.webp"
 },{
   "id": "663",
   "name": "Hotori #1",
@@ -5337,7 +5337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Hotori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Hotori1.webp"
 },{
   "id": "664",
   "name": "Hu Tao #6",
@@ -5345,7 +5345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Hu-Tao6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Hu-Tao6.webp"
 },{
   "id": "665",
   "name": "Hua & Xie #4",
@@ -5353,7 +5353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Hua-X-Xie4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Hua-X-Xie4.webp"
 },{
   "id": "666",
   "name": "Hua & Xie #5",
@@ -5361,7 +5361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/HuaXXie4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/HuaXXie4.webp"
 },{
   "id": "667",
   "name": "Jeanne D'arc Alter #1",
@@ -5369,7 +5369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Jeanne-Darc-Alter1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Jeanne-Darc-Alter1.webp"
 },{
   "id": "668",
   "name": "Jing Yuan #1",
@@ -5377,7 +5377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/JingYuan1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/JingYuan1.webp"
 },{
   "id": "669",
   "name": "Justia #1",
@@ -5385,7 +5385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Justia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Justia1.webp"
 },{
   "id": "670",
   "name": "Kadoc Zemlupus #1",
@@ -5393,7 +5393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Kadoc-Zemlupus1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Kadoc-Zemlupus1.webp"
 },{
   "id": "671",
   "name": "Ke #1",
@@ -5401,7 +5401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Ke1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Ke1.webp"
 },{
   "id": "672",
   "name": "Kiana Kaslana #1",
@@ -5409,7 +5409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/KianaKaslana1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/KianaKaslana1.webp"
 },{
   "id": "673",
   "name": "Klein Moretti #1",
@@ -5417,7 +5417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Klein-Moretti1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Klein-Moretti1.webp"
 },{
   "id": "674",
   "name": "Lan Wangji #1",
@@ -5425,7 +5425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Lan-Wangji1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Lan-Wangji1.webp"
 },{
   "id": "675",
   "name": "Lucia #2",
@@ -5433,7 +5433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Lucia2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Lucia2.webp"
 },{
   "id": "676",
   "name": "Luming #1",
@@ -5441,7 +5441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Luming1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Luming1.webp"
 },{
   "id": "677",
   "name": "Luna #1",
@@ -5449,7 +5449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Luna1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Luna1.webp"
 },{
   "id": "678",
   "name": "Mahiru Shiina #6",
@@ -5457,7 +5457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Mahiru-Shiina4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Mahiru-Shiina4.webp"
 },{
   "id": "679",
   "name": "Maria Mikhailova Kujou #2",
@@ -5465,7 +5465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Maria-Mikhailova-Kujou6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Maria-Mikhailova-Kujou6.webp"
 },{
   "id": "680",
   "name": "Nagisa Kamishiro #1",
@@ -5473,7 +5473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Nagisa1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Nagisa1_1.webp"
 },{
   "id": "681",
   "name": "Natalia #1",
@@ -5481,7 +5481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Natalia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Natalia1.webp"
 },{
   "id": "682",
   "name": "Nebris #1",
@@ -5489,7 +5489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Nebris1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Nebris1.webp"
 },{
   "id": "683",
   "name": "Nene Yashiro #2",
@@ -5497,7 +5497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Nene-Yashiro_2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Nene-Yashiro_2.webp"
 },{
   "id": "684",
   "name": "Nikki #1",
@@ -5505,7 +5505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Nikki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Nikki1.webp"
 },{
   "id": "685",
   "name": "Osamu Dazai #1",
@@ -5513,7 +5513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Osamu-Dazai1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Osamu-Dazai1.webp"
 },{
   "id": "686",
   "name": "Raiden Mei #1",
@@ -5521,7 +5521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/RaidenM1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/RaidenM1.webp"
 },{
   "id": "687",
   "name": "Ram #1",
@@ -5529,7 +5529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Ram1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Ram1.webp"
 },{
   "id": "688",
   "name": "Ram #2",
@@ -5537,7 +5537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Ram2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Ram2.webp"
 },{
   "id": "689",
   "name": "Rem #3",
@@ -5545,7 +5545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Rem1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Rem1.webp"
 },{
   "id": "690",
   "name": "Reshra Hanamaki #1",
@@ -5553,7 +5553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/ReshraHana1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/ReshraHana1.webp"
 },{
   "id": "691",
   "name": "Shen Qiao #1",
@@ -5561,7 +5561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Shen-Qiao1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Shen-Qiao1.webp"
 },{
   "id": "692",
   "name": "Shenhe #2",
@@ -5569,7 +5569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Shenhe2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Shenhe2.webp"
 },{
   "id": "693",
   "name": "Shion Suminoe #1",
@@ -5577,7 +5577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Shion-Suminoe1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Shion-Suminoe1.webp"
 },{
   "id": "694",
   "name": "Tao #1",
@@ -5585,7 +5585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Tao1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Tao1.webp"
 },{
   "id": "695",
   "name": "Wei Wuxian #1",
@@ -5593,7 +5593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Wei-Wuxian1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Wei-Wuxian1.webp"
 },{
   "id": "696",
   "name": "Yae Sakura #3",
@@ -5601,7 +5601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/YaeSakura3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/YaeSakura3.webp"
 },{
   "id": "697",
   "name": "Yan Wushi #1",
@@ -5609,7 +5609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/Yan-Wushi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/Yan-Wushi1.webp"
 },{
   "id": "698",
   "name": "Yoimiya #1",
@@ -5617,7 +5617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Lunar Festival",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Lunar%20festival/-Yoimiya-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Lunar%20festival/-Yoimiya-1.webp"
 },{
   "id": "699",
   "name": "Tohka Yatogami #1",
@@ -5625,7 +5625,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/Tohka-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/Tohka-lunar.webp"
 },{
   "id": "700",
   "name": "Ai & Ruby & Aqua #1",
@@ -5633,7 +5633,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/ai%26ruby%26aqua-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/ai%26ruby%26aqua-lunar.webp"
 },{
   "id": "701",
   "name": "Alisa Mikhailovna Kujou #11",
@@ -5641,7 +5641,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/alya-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/alya-lunar.webp"
 },{
   "id": "702",
   "name": "Chuuya Nakahara #1",
@@ -5649,7 +5649,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/chuuya-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/chuuya-lunar.webp"
 },{
   "id": "703",
   "name": "Osamu Dazai #2",
@@ -5657,7 +5657,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/dazai-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/dazai-lunar.webp"
 },{
   "id": "704",
   "name": "Edgar Allan Poe #1",
@@ -5665,7 +5665,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/edgar-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/edgar-lunar.webp"
 },{
   "id": "705",
   "name": "Kiana Kaslana #2",
@@ -5673,7 +5673,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/kiana-lunar.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/kiana-lunar.webp"
 },{
   "id": "706",
   "name": "Maomao #7",
@@ -5681,7 +5681,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Lunar Festival",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/Lunar%20festival/maomao7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/Lunar%20festival/maomao7.webp"
 },{
   "id": "707",
   "name": "Ada Wong #1",
@@ -5689,7 +5689,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art |Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/v1.0/Permanent/AdaWong%20-%201.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Permanent/AdaWong%20-%201.webp"
 },{
   "id": "708",
   "name": "Shiho Hinomori #1",
@@ -5697,7 +5697,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By » kronell",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/shiho1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/shiho1.webp"
 },{
   "id": "709",
   "name": "Elysia #1",
@@ -5705,7 +5705,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By » .luckysoul",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/elysia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/elysia1.webp"
 },{
   "id": "710",
   "name": "Esdeath #1",
@@ -5713,7 +5713,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/esdeath1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/esdeath1.webp"
 },{
   "id": "711",
   "name": "Nene Kusanagi #1",
@@ -5721,7 +5721,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By » kronell",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/nenekusnagi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/nenekusnagi1.webp"
 },{
   "id": "712",
   "name": "Kana & Melody #1",
@@ -5729,7 +5729,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent Duo",
   "source": "Official Art|Made By » its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/kanaoshi2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/kanaoshi2.webp"
 },{
   "id": "713",
   "name": "Yae & Raiden #1",
@@ -5737,7 +5737,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent Duo",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/yae%26ei1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/yae%26ei1.webp"
 },{
   "id": "714",
   "name": "Jellal Fernandes #1",
@@ -5745,7 +5745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Jellal-Fernandes1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Jellal-Fernandes1.webp"
 },{
   "id": "715",
   "name": "Venti #1",
@@ -5753,7 +5753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/venti1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/venti1.webp"
 },{
   "id": "716",
   "name": "Lucy Heartfilia #2",
@@ -5761,7 +5761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Lucy-Heartfilia2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Lucy-Heartfilia2.webp"
 },{
   "id": "717",
   "name": "Mirajane Strauss #1",
@@ -5769,7 +5769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Mirajane-Strauss1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Mirajane-Strauss1.webp"
 },{
   "id": "718",
   "name": "Yor Briar #2",
@@ -5777,7 +5777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/yorbriar2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/yorbriar2.webp"
 },{
   "id": "719",
   "name": "Wendy Marvell #1",
@@ -5785,7 +5785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Wendy-Marvell1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Wendy-Marvell1.webp"
 },{
   "id": "720",
   "name": "Mavis Vermillion #1",
@@ -5793,7 +5793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Mavis-Vermillion1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Mavis-Vermillion1.webp"
 },{
   "id": "721",
   "name": "Natsu Dragneel #1",
@@ -5801,7 +5801,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Natsu-Dragneel1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Natsu-Dragneel1.webp"
 },{
   "id": "722",
   "name": "Rem #4",
@@ -5809,7 +5809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Rem4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Rem4.webp"
 },{
   "id": "723",
   "name": "Laxus Dreyar #1",
@@ -5817,7 +5817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Laxus-Dreyar1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Laxus-Dreyar1.webp"
 },{
   "id": "724",
   "name": "Power #1",
@@ -5825,7 +5825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/power.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/power.webp"
 },{
   "id": "725",
   "name": "Yumemi Yumemite #1",
@@ -5833,7 +5833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Yumemi_Yumemite.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Yumemi_Yumemite.webp"
 },{
   "id": "726",
   "name": "Hanabusa Lisa #1",
@@ -5841,7 +5841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Hanabusa-Lisa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Hanabusa-Lisa1.webp"
 },{
   "id": "727",
   "name": "Hanabusa Lisa #2",
@@ -5849,7 +5849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Hanabusa-Lisa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Hanabusa-Lisa2.webp"
 },{
   "id": "728",
   "name": "Kaminari Qp #1",
@@ -5857,7 +5857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/KaminariQp1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/KaminariQp1.webp"
 },{
   "id": "729",
   "name": "Noah Kurumi #2",
@@ -5865,7 +5865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/NoahKurumi2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/NoahKurumi2.webp"
 },{
   "id": "730",
   "name": "Zhongli #1",
@@ -5873,7 +5873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/zhongli1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/zhongli1.webp"
 },{
   "id": "731",
   "name": "The Herta #1",
@@ -5881,7 +5881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/TheHerta1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/TheHerta1.webp"
 },{
   "id": "732",
   "name": "Herta #1",
@@ -5889,7 +5889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Herta1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Herta1.webp"
 },{
   "id": "733",
   "name": "Raiden Shogun #2",
@@ -5897,7 +5897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/RaidenShogun1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/RaidenShogun1.webp"
 },{
   "id": "734",
   "name": "Reze #1",
@@ -5905,7 +5905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/reze1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/reze1.webp"
 },{
   "id": "735",
   "name": "Nahida #1",
@@ -5913,7 +5913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Nahida2-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Nahida2-1.webp"
 },{
   "id": "736",
   "name": "Moona Hoshinova #2",
@@ -5921,7 +5921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/MoonaHoshinova2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/MoonaHoshinova2.webp"
 },{
   "id": "737",
   "name": "Ikari Shinji #1",
@@ -5929,7 +5929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/IkariShinji1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/IkariShinji1.webp"
 },{
   "id": "738",
   "name": "Amane Suzuha #1",
@@ -5937,7 +5937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/AmaneSuzuha1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/AmaneSuzuha1.webp"
 },{
   "id": "739",
   "name": "Yumeko Jabami #1",
@@ -5945,7 +5945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/yumekoJabami1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/yumekoJabami1.webp"
 },{
   "id": "740",
   "name": "Noelle #1",
@@ -5953,7 +5953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Noelle1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Noelle1.webp"
 },{
   "id": "741",
   "name": "Mavuika #1",
@@ -5961,7 +5961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/mavuika1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/mavuika1_1.webp"
 },{
   "id": "742",
   "name": "Cheval Grand #1",
@@ -5969,7 +5969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/ChevalGrand1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/ChevalGrand1.webp"
 },{
   "id": "743",
   "name": "Himmel #1",
@@ -5977,7 +5977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Himmel1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Himmel1.webp"
 },{
   "id": "744",
   "name": "Shinomiya Runa #1",
@@ -5985,7 +5985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/ShinomiyaRuna2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/ShinomiyaRuna2.webp"
 },{
   "id": "745",
   "name": "Yakumo Beni #1",
@@ -5993,7 +5993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/YakumoBeni1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/YakumoBeni1.webp"
 },{
   "id": "746",
   "name": "Kaminari Qpi #1",
@@ -6001,7 +6001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Kaminari-Qpi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Kaminari-Qpi1.webp"
 },{
   "id": "747",
   "name": "Tachibana Hinano #1",
@@ -6009,7 +6009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Tachibana-Hinano1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Tachibana-Hinano1.webp"
 },{
   "id": "748",
   "name": "Kisaragi Ren #1",
@@ -6017,7 +6017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Kisaragi-Ren1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Kisaragi-Ren1.webp"
 },{
   "id": "749",
   "name": "Asumi Sena #1",
@@ -6025,7 +6025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Asumi-Sena1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Asumi-Sena1.webp"
 },{
   "id": "750",
   "name": "Tachibana Hinano #2",
@@ -6033,7 +6033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Tachibana-Hinano2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Tachibana-Hinano2.webp"
 },{
   "id": "751",
   "name": "Cerydra #1",
@@ -6041,7 +6041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Cerydra1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Cerydra1.webp"
 },{
   "id": "752",
   "name": "Light Yagami #1",
@@ -6049,7 +6049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Light-Yagami1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Light-Yagami1.webp"
 },{
   "id": "753",
   "name": "Asumi Sena #2",
@@ -6057,7 +6057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Asumi-Sena2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Asumi-Sena2.webp"
 },{
   "id": "754",
   "name": "Hanamiya Rica #1",
@@ -6065,7 +6065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Hanamiya-Rica1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Hanamiya-Rica1.webp"
 },{
   "id": "755",
   "name": "Akuma Nihmune #1",
@@ -6073,7 +6073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Akuma-Nihmune1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Akuma-Nihmune1.webp"
 },{
   "id": "756",
   "name": "Akuma Nihmune #2",
@@ -6081,7 +6081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Akuma-Nihmune2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Akuma-Nihmune2.webp"
 },{
   "id": "757",
   "name": "Camila #1",
@@ -6089,7 +6089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Camila1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Camila1.webp"
 },{
   "id": "758",
   "name": "Kisaragi Ren #2",
@@ -6097,7 +6097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/KisaragiRen2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/KisaragiRen2.webp"
 },{
   "id": "759",
   "name": "Cantarella #1",
@@ -6105,7 +6105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Cantarella1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Cantarella1.webp"
 },{
   "id": "760",
   "name": "Qiao Ling #2",
@@ -6113,7 +6113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/QiaoLing2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/QiaoLing2.webp"
 },{
   "id": "761",
   "name": "Sung Jin Woo #2",
@@ -6121,7 +6121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/SunJin-Woo2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/SunJin-Woo2.webp"
 },{
   "id": "762",
   "name": "Sunday #6",
@@ -6129,7 +6129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-4/Sunday6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-4/Sunday6.webp"
 },{
   "id": "763",
   "name": "Endministrator #1",
@@ -6137,7 +6137,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ kronell",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Endminstrator1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Endminstrator1.webp"
 },{
   "id": "306",
   "name": "Raiden Mei #2",
@@ -6145,7 +6145,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ .luckysoul",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/raidenmei2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/raidenmei2.webp"
 },{
   "id": "765",
   "name": "Michi Mochievee #1",
@@ -6153,7 +6153,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ Slept & Mid",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/michi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/michi1.webp"
 },{
   "id": "766",
   "name": "Isaki Riona #2",
@@ -6161,7 +6161,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/isaki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/isaki1.webp"
 },{
   "id": "767",
   "name": "Ochako Uraraka #1",
@@ -6169,7 +6169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OchakoUraraka1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OchakoUraraka1.webp"
 },{
   "id": "768",
   "name": "Ochako Uraraka #2",
@@ -6177,7 +6177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OchakoUraraka2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OchakoUraraka2.webp"
 },{
   "id": "769",
   "name": "Ochako Uraraka #3",
@@ -6185,7 +6185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OchakoUraraka3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OchakoUraraka3.webp"
 },{
   "id": "770",
   "name": "Katsuki Bakugou #1",
@@ -6193,7 +6193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KatsukiBakugou1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KatsukiBakugou1.webp"
 },{
   "id": "771",
   "name": "Katsuki Bakugou #2",
@@ -6201,7 +6201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KatsukiBakugou2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KatsukiBakugou2.webp"
 },{
   "id": "772",
   "name": "Kyoka Jiro #1",
@@ -6209,7 +6209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KyokaJiro1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KyokaJiro1_1.webp"
 },{
   "id": "773",
   "name": "Endeavor #1",
@@ -6217,7 +6217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Endeavor1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Endeavor1.webp"
 },{
   "id": "774",
   "name": "Shinsou Hitoshi #1",
@@ -6225,7 +6225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ShinsouHitoshi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ShinsouHitoshi1.webp"
 },{
   "id": "775",
   "name": "Levi Ackerman #5",
@@ -6233,7 +6233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/LeviAckerman1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/LeviAckerman1.webp"
 },{
   "id": "776",
   "name": "Armin Arlert #1",
@@ -6241,7 +6241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ArminArlert1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ArminArlert1.webp"
 },{
   "id": "777",
   "name": "Eren Yeager #4",
@@ -6249,7 +6249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ErenYeager4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ErenYeager4.webp"
 },{
   "id": "778",
   "name": "Megumi Fushiguro #1",
@@ -6257,7 +6257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MegumiFushiguro1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MegumiFushiguro1.webp"
 },{
   "id": "779",
   "name": "Yuji Itadori #2",
@@ -6265,7 +6265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/YuujiItadori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/YuujiItadori1.webp"
 },{
   "id": "780",
   "name": "Shinobu Kocho #2",
@@ -6273,7 +6273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ShinobuKochou2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ShinobuKochou2.webp"
 },{
   "id": "781",
   "name": "Rengoku Kyojuro #2",
@@ -6281,7 +6281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/RengokuKyojuro2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/RengokuKyojuro2.webp"
 },{
   "id": "782",
   "name": "Makima #2",
@@ -6289,7 +6289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Makima2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Makima2.webp"
 },{
   "id": "783",
   "name": "Fubuki #1",
@@ -6297,7 +6297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Fubuki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Fubuki1.webp"
 },{
   "id": "784",
   "name": "Fubuki #2",
@@ -6305,7 +6305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Fubuki2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Fubuki2.webp"
 },{
   "id": "785",
   "name": "Shishiro Botan #1",
@@ -6313,7 +6313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/shishirobotan1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/shishirobotan1.webp"
 },{
   "id": "786",
   "name": "Amane Kanata #1",
@@ -6321,7 +6321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Amane-Kanata1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Amane-Kanata1.webp"
 },{
   "id": "787",
   "name": "Ironmouse #1",
@@ -6329,7 +6329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ironmouse1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ironmouse1.webp"
 },{
   "id": "788",
   "name": "Zentreya #1",
@@ -6337,7 +6337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Zentreya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Zentreya1.webp"
 },{
   "id": "789",
   "name": "Projekt Melody #1",
@@ -6345,7 +6345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Projekt-Melody1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Projekt-Melody1.webp"
 },{
   "id": "790",
   "name": "Nyanners #1",
@@ -6353,7 +6353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Nyanners1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Nyanners1.webp"
 },{
   "id": "791",
   "name": "Nyanners #2",
@@ -6361,7 +6361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Nyanners2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Nyanners2.webp"
 },{
   "id": "792",
   "name": "Froot #1",
@@ -6369,7 +6369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Froot1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Froot1.webp"
 },{
   "id": "793",
   "name": "Silvervale #1",
@@ -6377,7 +6377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Silvervale1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Silvervale1.webp"
 },{
   "id": "794",
   "name": "Pipkin Pippa #1",
@@ -6385,7 +6385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Pipkin-Pippa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Pipkin-Pippa2.webp"
 },{
   "id": "795",
   "name": "Hysilens #1",
@@ -6393,7 +6393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Hysilens1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Hysilens1.webp"
 },{
   "id": "796",
   "name": "Hysilens #2",
@@ -6401,7 +6401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Hysilens2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Hysilens2.webp"
 },{
   "id": "797",
   "name": "Shylily #1",
@@ -6409,7 +6409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Shylily1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Shylily1.webp"
 },{
   "id": "798",
   "name": "Bao #1",
@@ -6417,7 +6417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Bao2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Bao2.webp"
 },{
   "id": "799",
   "name": "Tenma Maemi #1",
@@ -6425,7 +6425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Tenma_Maemi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Tenma_Maemi1.webp"
 },{
   "id": "800",
   "name": "Laimu #1",
@@ -6433,7 +6433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Laimu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Laimu1.webp"
 },{
   "id": "801",
   "name": "Laimu #2",
@@ -6441,7 +6441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Laimu2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Laimu2.webp"
 },{
   "id": "802",
   "name": "Sameko Saba #1",
@@ -6449,7 +6449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Sameko-Saba1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Sameko-Saba1.webp"
 },{
   "id": "803",
   "name": "Dokibird #1",
@@ -6457,7 +6457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Dokibird1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Dokibird1.webp"
 },{
   "id": "804",
   "name": "Dokibird #2",
@@ -6465,7 +6465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Dokibird2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Dokibird2.webp"
 },{
   "id": "805",
   "name": "Henya the Genius #1",
@@ -6473,7 +6473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Henya-the-Genius1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Henya-the-Genius1.webp"
 },{
   "id": "806",
   "name": "Henya the Genius #2",
@@ -6481,7 +6481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Henya-the-Genius2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Henya-the-Genius2.webp"
 },{
   "id": "807",
   "name": "Camila #2",
@@ -6489,7 +6489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Camila2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Camila2.webp"
 },{
   "id": "808",
   "name": "Amalee #1",
@@ -6497,7 +6497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Amalee1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Amalee1.webp"
 },{
   "id": "809",
   "name": "Jill Valentine #1",
@@ -6505,7 +6505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/JillValentine1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/JillValentine1.webp"
 },{
   "id": "810",
   "name": "Chris Redfield #1",
@@ -6513,7 +6513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ChrisRedfield1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ChrisRedfield1.webp"
 },{
   "id": "811",
   "name": "Leon S. Kennedy #1",
@@ -6521,7 +6521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/leons.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/leons.webp"
 },{
   "id": "812",
   "name": "Claire Redfield #1",
@@ -6529,7 +6529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ClaireRedfield1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ClaireRedfield1.webp"
 },{
   "id": "813",
   "name": "Ada Wong #2",
@@ -6537,7 +6537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/AdaWong2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/AdaWong2.webp"
 },{
   "id": "814",
   "name": "Ada Wong #3",
@@ -6545,7 +6545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/AdaWong3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/AdaWong3.webp"
 },{
   "id": "815",
   "name": "Ada Wong #4",
@@ -6553,7 +6553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/AdaWong4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/AdaWong4.webp"
 },{
   "id": "816",
   "name": "Grace Ashcroft #1",
@@ -6561,7 +6561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/GraceAshcroft1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/GraceAshcroft1.webp"
 },{
   "id": "817",
   "name": "Raiden Mei #3",
@@ -6569,7 +6569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/RaidenMei2-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/RaidenMei2-1.webp"
 },{
   "id": "818",
   "name": "Raiden Mei #4",
@@ -6577,7 +6577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/RaidenMei3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/RaidenMei3.webp"
 },{
   "id": "819",
   "name": "Bronya Zaychik #2",
@@ -6585,7 +6585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Bronya-Zaychik1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Bronya-Zaychik1.webp"
 },{
   "id": "820",
   "name": "Keqing #2",
@@ -6593,7 +6593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Keqing2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Keqing2.webp"
 },{
   "id": "821",
   "name": "Burnice #1",
@@ -6601,7 +6601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Burnice1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Burnice1.webp"
 },{
   "id": "822",
   "name": "Sunna #1",
@@ -6609,7 +6609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Sunna1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Sunna1.webp"
 },{
   "id": "823",
   "name": "Lilia Vanrouge #1",
@@ -6617,7 +6617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/LiliaVanrouge1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/LiliaVanrouge1.webp"
 },{
   "id": "824",
   "name": "Ortho Shroud #1",
@@ -6625,7 +6625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OrthoShroud1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OrthoShroud1.webp"
 },{
   "id": "825",
   "name": "Dire Crowley #1",
@@ -6633,7 +6633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/DireCrowley1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/DireCrowley1.webp"
 },{
   "id": "826",
   "name": "Fyodor Dostoyevsky #1",
@@ -6641,7 +6641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Fyodor-Dostoyevsky1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Fyodor-Dostoyevsky1.webp"
 },{
   "id": "827",
   "name": "Lu Guang #2",
@@ -6649,7 +6649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/LuGuang2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/LuGuang2.webp"
 },{
   "id": "828",
   "name": "Cheng Xiaoshi #2",
@@ -6657,7 +6657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ChengXiaoshi2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ChengXiaoshi2.webp"
 },{
   "id": "829",
   "name": "Yoru #1",
@@ -6665,7 +6665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Yoru1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Yoru1.webp"
 },{
   "id": "830",
   "name": "Monika #1",
@@ -6673,7 +6673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Monika1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Monika1.webp"
 },{
   "id": "831",
   "name": "Alice #1",
@@ -6681,7 +6681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Alice1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Alice1.webp"
 },{
   "id": "832",
   "name": "Sakura Haruno #1",
@@ -6689,7 +6689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/SakuraHaruno1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/SakuraHaruno1.webp"
 },{
   "id": "833",
   "name": "Marin Kitagawa #6",
@@ -6697,7 +6697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MarinKitagawa7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MarinKitagawa7.webp"
 },{
   "id": "834",
   "name": "Chizuru Mizuhara #1",
@@ -6705,7 +6705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Chizuru-Mizuhara1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Chizuru-Mizuhara1.webp"
 },{
   "id": "835",
   "name": "Chizuru Mizuhara #2",
@@ -6713,7 +6713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Chizuru-Mizuhara3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Chizuru-Mizuhara3.webp"
 },{
   "id": "836",
   "name": "Kurumi Tokisaki #8",
@@ -6721,7 +6721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KurumiTokisaki8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KurumiTokisaki8.webp"
 },{
   "id": "837",
   "name": "Nene Yashiro #3",
@@ -6729,7 +6729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Nene_-Yashiro3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Nene_-Yashiro3.webp"
 },{
   "id": "838",
   "name": "Alisa Mikhailovna Kujou #12",
@@ -6737,7 +6737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Alya14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Alya14.webp"
 },{
   "id": "839",
   "name": "Ena Shinonome #2",
@@ -6745,7 +6745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/EnaShinonome2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/EnaShinonome2.webp"
 },{
   "id": "840",
   "name": "Minori Hanasato #1",
@@ -6753,7 +6753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MinoriHanasato1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MinoriHanasato1.webp"
 },{
   "id": "841",
   "name": "Saki Tenma #2",
@@ -6761,7 +6761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/SakiTenma2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/SakiTenma2.webp"
 },{
   "id": "842",
   "name": "Cha Hae-In #1",
@@ -6769,7 +6769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ChaHae-In1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ChaHae-In1.webp"
 },{
   "id": "843",
   "name": "Cid Kagenou #3",
@@ -6777,7 +6777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/CidKagenou4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/CidKagenou4.webp"
 },{
   "id": "844",
   "name": "Amada Ken #1",
@@ -6785,7 +6785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Amada-Ken1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Amada-Ken1.webp"
 },{
   "id": "845",
   "name": "Minerva Orland #1",
@@ -6793,7 +6793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MinervaOrland1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MinervaOrland1.webp"
 },{
   "id": "846",
   "name": "Mahiru Shiina #7",
@@ -6801,7 +6801,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MahiruShiina1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MahiruShiina1.webp"
 },{
   "id": "847",
   "name": "Rubuska #1",
@@ -6809,7 +6809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Rubuska1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Rubuska1.webp"
 },{
   "id": "848",
   "name": "Vonnegut #1",
@@ -6817,7 +6817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Vonnegut1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Vonnegut1.webp"
 },{
   "id": "849",
   "name": "Martha Behamfil #1",
@@ -6825,7 +6825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MarthaBehamfil1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MarthaBehamfil1.webp"
 },{
   "id": "850",
   "name": "Olivia Berry #1",
@@ -6833,7 +6833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OliviaBerry1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OliviaBerry1.webp"
 },{
   "id": "851",
   "name": "Olivia Lanze #1",
@@ -6841,7 +6841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/OliviaLanze1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/OliviaLanze1.webp"
 },{
   "id": "852",
   "name": "Shimizu Hinako #1",
@@ -6849,7 +6849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ShimizuHinako1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ShimizuHinako1.webp"
 },{
   "id": "853",
   "name": "Tendo Hoshine #1",
@@ -6857,7 +6857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/TendoHoshine1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/TendoHoshine1.webp"
 },{
   "id": "854",
   "name": "Female Endministrator #1",
@@ -6865,7 +6865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Female-Endministrator1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Female-Endministrator1.webp"
 },{
   "id": "855",
   "name": "Valier Junior #1",
@@ -6873,7 +6873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Valier-Junior1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Valier-Junior1.webp"
 },{
   "id": "856",
   "name": "Quincy #1",
@@ -6881,7 +6881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Quincy1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Quincy1.webp"
 },{
   "id": "857",
   "name": "Quincy #2",
@@ -6889,7 +6889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Quincy2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Quincy2.webp"
 },{
   "id": "858",
   "name": "Kagura #1",
@@ -6897,7 +6897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Kagura1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Kagura1.webp"
 },{
   "id": "859",
   "name": "Lilith #2",
@@ -6905,7 +6905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Lilith1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Lilith1.webp"
 },{
   "id": "860",
   "name": "Megurine Luka #1",
@@ -6913,7 +6913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/megurineluka1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/megurineluka1.webp"
 },{
   "id": "861",
   "name": "Ado #3",
@@ -6921,7 +6921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ado3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ado3.webp"
 },{
   "id": "862",
   "name": "Ado #4",
@@ -6929,7 +6929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ado4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ado4.webp"
 },{
   "id": "863",
   "name": "Ado #5",
@@ -6937,7 +6937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ado5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ado5.webp"
 },{
   "id": "864",
   "name": "Ado #6",
@@ -6945,7 +6945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ado6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ado6.webp"
 },{
   "id": "865",
   "name": "Beelzebub #2",
@@ -6953,7 +6953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Beelzebub3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Beelzebub3.webp"
 },{
   "id": "866",
   "name": "Lu Guang #3",
@@ -6961,7 +6961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/LuGuang3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/LuGuang3.webp"
 },{
   "id": "867",
   "name": "Medea Solon #1",
@@ -6969,7 +6969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MedeaSolon1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MedeaSolon1.webp"
 },{
   "id": "868",
   "name": "Himeno #1",
@@ -6977,7 +6977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Himeno1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Himeno1.webp"
 },{
   "id": "869",
   "name": "Undertaker #1",
@@ -6985,7 +6985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Undertaker1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Undertaker1.webp"
 },{
   "id": "870",
   "name": "Ryomen Sukuna #1",
@@ -6993,7 +6993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/SukunaRyomen1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/SukunaRyomen1.webp"
 },{
   "id": "871",
   "name": "Yakumo #1",
@@ -7001,7 +7001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Yakumo1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Yakumo1.webp"
 },{
   "id": "872",
   "name": "Aster #1",
@@ -7009,7 +7009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Aster1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Aster1.webp"
 },{
   "id": "873",
   "name": "Rei #1",
@@ -7017,7 +7017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Rei1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Rei1.webp"
 },{
   "id": "874",
   "name": "Dante #1",
@@ -7025,7 +7025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Dante1_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Dante1_1.webp"
 },{
   "id": "875",
   "name": "Blade #5",
@@ -7033,7 +7033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Blade1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Blade1.webp"
 },{
   "id": "876",
   "name": "Kuya #1",
@@ -7041,7 +7041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Kuya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Kuya1.webp"
 },{
   "id": "877",
   "name": "Olivine #1",
@@ -7049,7 +7049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Olivine1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Olivine1.webp"
 },{
   "id": "878",
   "name": "Garu #1",
@@ -7057,7 +7057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Garu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Garu1.webp"
 },{
   "id": "879",
   "name": "Ishmael #1",
@@ -7065,7 +7065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ishmael1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ishmael1.webp"
 },{
   "id": "880",
   "name": "Ishmael #2",
@@ -7073,7 +7073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ishmael2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ishmael2.webp"
 },{
   "id": "881",
   "name": "Klein Moretti #2",
@@ -7081,7 +7081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KleinMoretti2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KleinMoretti2.webp"
 },{
   "id": "882",
   "name": "Klein Moretti #3",
@@ -7089,7 +7089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KleinMoretti3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KleinMoretti3.webp"
 },{
   "id": "883",
   "name": "Klein Moretti #4",
@@ -7097,7 +7097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/KleinMoretti4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/KleinMoretti4.webp"
 },{
   "id": "885",
   "name": "Denia #1",
@@ -7105,7 +7105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/denia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/denia1.webp"
 },{
   "id": "886",
   "name": "Ashveil #1",
@@ -7113,7 +7113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/ashveil1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/ashveil1.webp"
 },{
   "id": "887",
   "name": "Saitou #1",
@@ -7121,7 +7121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Saitou1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Saitou1.webp"
 },{
   "id": "888",
   "name": "Han Maru #1",
@@ -7129,7 +7129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/hanmaru1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/hanmaru1.webp"
 },{
   "id": "889",
   "name": "Touya Aoyagi #2",
@@ -7137,7 +7137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/TouyaAoyagi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/TouyaAoyagi1.webp"
 },{
   "id": "890",
   "name": "Ren Amamiya #2",
@@ -7145,7 +7145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ren-Amamiya2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ren-Amamiya2.webp"
 },{
   "id": "891",
   "name": "Ryūji Sakamoto #1",
@@ -7153,7 +7153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ryuji-Sakamoto1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ryuji-Sakamoto1.webp"
 },{
   "id": "892",
   "name": "Sakura Futaba #1",
@@ -7161,7 +7161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Sakura-Futaba1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Sakura-Futaba1.webp"
 },{
   "id": "893",
   "name": "Frieren #3",
@@ -7169,7 +7169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Frieren3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Frieren3.webp"
 },{
   "id": "894",
   "name": "Apollonia #1",
@@ -7177,7 +7177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Apollonia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Apollonia1.webp"
 },{
   "id": "895",
   "name": "Leon S. Kennedy #2",
@@ -7185,7 +7185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Leon-S_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Leon-S_1.webp"
 },{
   "id": "896",
   "name": "Leon S. Kennedy #3",
@@ -7193,7 +7193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Leon-S_2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Leon-S_2.webp"
 },{
   "id": "897",
   "name": "Cerydra #2",
@@ -7201,7 +7201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Cerydra2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Cerydra2.webp"
 },{
   "id": "898",
   "name": "Ruan Mei #1",
@@ -7209,7 +7209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Ruan-Mei1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Ruan-Mei1.webp"
 },{
   "id": "899",
   "name": "Pipkin Pippa #2",
@@ -7217,7 +7217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Pipkin-Pippa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Pipkin-Pippa1.webp"
 },{
   "id": "900",
   "name": "Vivian Banshee #1",
@@ -7225,7 +7225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/Vivian-Banshee1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/Vivian-Banshee1.webp"
 },{
   "id": "901",
   "name": "Medea & Psyche #1",
@@ -7233,7 +7233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MedeaXPsyche.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MedeaXPsyche.webp"
 },{
   "id": "902",
   "name": "Shigaraki X Izuku #1",
@@ -7241,7 +7241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/shigaraki&izuku.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/shigaraki&izuku.webp"
 },{
   "id": "903",
   "name": "Mitsuki Koga X Aya Osawa #1",
@@ -7249,7 +7249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MitsukiXAya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MitsukiXAya1.webp"
 },{
   "id": "904",
   "name": "Fern X Frieren #1",
@@ -7257,7 +7257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/FernXFrieren1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/FernXFrieren1.webp"
 },{
   "id": "905",
   "name": "Wei X Lan #1",
@@ -7265,7 +7265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/WeiXLan6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/WeiXLan6.webp"
 },{
   "id": "906",
   "name": "Neuro X Evil #1",
@@ -7273,7 +7273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/NeuroXEvil1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/NeuroXEvil1.webp"
 },{
   "id": "907",
   "name": "Leon S. Kennedy X Chris Redfield #1",
@@ -7281,7 +7281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/LeonXChris1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/LeonXChris1.webp"
 },{
   "id": "908",
   "name": "Mami X Chizuru #1",
@@ -7289,7 +7289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-5/MamiXChizuru1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-5/MamiXChizuru1.webp"
 },{
   "id": "909",
   "name": "Six Seven #1",
@@ -7297,7 +7297,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/sixseven-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/sixseven-1.webp"
 },{
   "id": "910",
   "name": "Sung Jin Woo #3",
@@ -7305,7 +7305,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/sungjinwoo-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/sungjinwoo-3.webp"
 },{
   "id": "911",
   "name": "Camellya #2",
@@ -7313,7 +7313,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/camellya-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/camellya-2.webp"
 },{
   "id": "912",
   "name": "Goku & Vegeta #1",
@@ -7321,7 +7321,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/v1.0/3D-2/goku%26vegeta-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Err-idk-/main/3D-2/goku%26vegeta-1.webp"
 },{
   "id": "913",
   "name": "Adela #1",
@@ -7329,7 +7329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Adela1-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Adela1-1.webp"
 },{
   "id": "914",
   "name": "Kinoshita Akane #1",
@@ -7337,7 +7337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Kinoshita_Akane_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Kinoshita_Akane_1.webp"
 },{
   "id": "915",
   "name": "000 #1",
@@ -7345,7 +7345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/0001-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/0001-1.webp"
 },{
   "id": "916",
   "name": "Chameleon #1",
@@ -7353,7 +7353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Chameleon1-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Chameleon1-1.webp"
 },{
   "id": "917",
   "name": "Luka #3",
@@ -7361,7 +7361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Luka_3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Luka_3.webp"
 },{
   "id": "918",
   "name": "Keqing #3",
@@ -7369,7 +7369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Keqing_3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Keqing_3.webp"
 },{
   "id": "919",
   "name": "Ai Hoshino #6",
@@ -7377,7 +7377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Ai_Hoshino_6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Ai_Hoshino_6.webp"
 },{
   "id": "920",
   "name": "Akito Yamada #1",
@@ -7385,7 +7385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Akito_Yamada_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Akito_Yamada_1.webp"
 },{
   "id": "921",
   "name": "Klein Moretti #5",
@@ -7393,7 +7393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Klein_Moretti_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Klein_Moretti_1.webp"
 },{
   "id": "922",
   "name": "Aquamarine Hoshino #8",
@@ -7401,7 +7401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Aquamarine_Hoshino_8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Aquamarine_Hoshino_8.webp"
 },{
   "id": "923",
   "name": "Kaela Kovalskia #1",
@@ -7409,7 +7409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Kaela_Kovalskia_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Kaela_Kovalskia_1.webp"
 },{
   "id": "924",
   "name": "Yoo Joonghyuk #1",
@@ -7417,7 +7417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Yoo_Joonghyuk_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Yoo_Joonghyuk_1.webp"
 },{
   "id": "925",
   "name": "Rossi #1",
@@ -7425,7 +7425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Rossi_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Rossi_1.webp"
 },{
   "id": "926",
   "name": "Kobo Kanaeru #2",
@@ -7433,7 +7433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Kobo_Kanaeru_2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Kobo_Kanaeru_2.webp"
 },{
   "id": "927",
   "name": "Ruby Hoshino #8",
@@ -7441,7 +7441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-6/Ruby_Hoshino_8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-6/Ruby_Hoshino_8.webp"
 },{
   "id": "928",
   "name": "Artoria Pendragon #2",
@@ -7449,7 +7449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/ArtoriaPendragon2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/ArtoriaPendragon2.webp"
 },{
   "id": "929",
   "name": "Maria Kurose #1",
@@ -7457,7 +7457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/MariaKurose1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/MariaKurose1.webp"
 },{
   "id": "930",
   "name": "Rem #5",
@@ -7465,7 +7465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rem3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rem3.webp"
 },{
   "id": "931",
   "name": "White #1",
@@ -7473,7 +7473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/White1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/White1.webp"
 },{
   "id": "932",
   "name": "Ram #3",
@@ -7481,7 +7481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ram3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ram3.webp"
 },{
   "id": "933",
   "name": "Sebastian X Ciel #1",
@@ -7489,7 +7489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sebastian-X-Ciel1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sebastian-X-Ciel1.webp"
 },{
   "id": "934",
   "name": "Mitile #1",
@@ -7497,7 +7497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mitile1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mitile1.webp"
 },{
   "id": "935",
   "name": "Akane Kurokawa #2",
@@ -7505,7 +7505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Akane-Kurokawa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Akane-Kurokawa2.webp"
 },{
   "id": "936",
   "name": "Ren Jinguji #1",
@@ -7513,7 +7513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ren-Jinguji1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ren-Jinguji1.webp"
 },{
   "id": "937",
   "name": "Kachina #1",
@@ -7521,7 +7521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kachina1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kachina1.webp"
 },{
   "id": "938",
   "name": "Black Hanekawa #1",
@@ -7529,7 +7529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Black-Hanekawa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Black-Hanekawa1.webp"
 },{
   "id": "939",
   "name": "Claidheamh Soluis #1",
@@ -7537,7 +7537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Claidheamh-Soluis1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Claidheamh-Soluis1.webp"
 },{
   "id": "940",
   "name": "Takane Miyagawa #1",
@@ -7545,7 +7545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Takane-Miyagawa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Takane-Miyagawa1.webp"
 },{
   "id": "941",
   "name": "Emu Ootori #2",
@@ -7553,7 +7553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Emu-Ootori2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Emu-Ootori2.webp"
 },{
   "id": "942",
   "name": "Ame-Chan #1",
@@ -7561,7 +7561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ame1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ame1.webp"
 },{
   "id": "943",
   "name": "KAngel #2",
@@ -7569,7 +7569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/KAngel2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/KAngel2.webp"
 },{
   "id": "944",
   "name": "Kurisu Makise #1",
@@ -7577,7 +7577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kurisu-Makise1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kurisu-Makise1.webp"
 },{
   "id": "945",
   "name": "Terakomari Gandezblood #1",
@@ -7585,7 +7585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Terakomari-Gandezblood1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Terakomari-Gandezblood1.webp"
 },{
   "id": "946",
   "name": "Ruby Hoshino #9",
@@ -7593,7 +7593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ruby-Hoshino8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ruby-Hoshino8.webp"
 },{
   "id": "947",
   "name": "Tokoyami Towa #1",
@@ -7601,7 +7601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tokoyami-Towa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tokoyami-Towa1.webp"
 },{
   "id": "948",
   "name": "Scathach #1",
@@ -7609,7 +7609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Scathach1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Scathach1.webp"
 },{
   "id": "949",
   "name": "Ookami Mio #1",
@@ -7617,7 +7617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ookami-Mio1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ookami-Mio1.webp"
 },{
   "id": "950",
   "name": "Yoshino Himekawa #2",
@@ -7625,7 +7625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Yoshino-Himekawa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Yoshino-Himekawa2.webp"
 },{
   "id": "951",
   "name": "Furina #5",
@@ -7633,7 +7633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Furina5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Furina5.webp"
 },{
   "id": "952",
   "name": "Nene Kusanagi #2",
@@ -7641,7 +7641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Nene-Kusanagi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Nene-Kusanagi1.webp"
 },{
   "id": "953",
   "name": "Rin Kagamine #2",
@@ -7649,7 +7649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rin-Kagamine2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rin-Kagamine2.webp"
 },{
   "id": "954",
   "name": "Rui Kamishiro #1",
@@ -7657,7 +7657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rui-Kamishiro1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rui-Kamishiro1.webp"
 },{
   "id": "955",
   "name": "Shiho Hinomori #2",
@@ -7665,7 +7665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Shiho-Hinomori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Shiho-Hinomori1.webp"
 },{
   "id": "956",
   "name": "Eiden #1",
@@ -7673,7 +7673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Eiden1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Eiden1.webp"
 },{
   "id": "957",
   "name": "Pekomama #1",
@@ -7681,7 +7681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Pekomama1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Pekomama1.webp"
 },{
   "id": "958",
   "name": "Ren Shirayuki #2",
@@ -7689,7 +7689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ren-Shirayuki2_1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ren-Shirayuki2_1.webp"
 },{
   "id": "959",
   "name": "Shino Saotome #3",
@@ -7697,7 +7697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Shino-Saotome3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Shino-Saotome3.webp"
 },{
   "id": "960",
   "name": "Shizuku Hinomori #1",
@@ -7705,7 +7705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Shizuku-Hinomori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Shizuku-Hinomori1.webp"
 },{
   "id": "961",
   "name": "Koyanskaya #1",
@@ -7713,7 +7713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Koyanskaya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Koyanskaya1.webp"
 },{
   "id": "962",
   "name": "Riko Yuzuha #1",
@@ -7721,7 +7721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Riko-Yuzuha1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Riko-Yuzuha1.webp"
 },{
   "id": "963",
   "name": "Alpha #11",
@@ -7729,7 +7729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Alpha10.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Alpha10.webp"
 },{
   "id": "964",
   "name": "Aoba Tsumugi #1",
@@ -7737,7 +7737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Aoba-Tsumugi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Aoba-Tsumugi1.webp"
 },{
   "id": "965",
   "name": "Mahiru Shiina #8",
@@ -7745,7 +7745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mahiru-Shiina7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mahiru-Shiina7.webp"
 },{
   "id": "966",
   "name": "Castorice #7",
@@ -7753,7 +7753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Castorice7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Castorice7.webp"
 },{
   "id": "967",
   "name": "Ultear Milkovich #1",
@@ -7761,7 +7761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ultear-Milkovich1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ultear-Milkovich1.webp"
 },{
   "id": "968",
   "name": "Cana Alberona #2",
@@ -7769,7 +7769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Cana-Alberona2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Cana-Alberona2.webp"
 },{
   "id": "969",
   "name": "Juvia Lockster #1",
@@ -7777,7 +7777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Juvia-Lockster2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Juvia-Lockster2.webp"
 },{
   "id": "970",
   "name": "Itsuki Nakano #3",
@@ -7785,7 +7785,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Itsuki-Nakano3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Itsuki-Nakano3.webp"
 },{
   "id": "971",
   "name": "Isshiki Iroha #1",
@@ -7793,7 +7793,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Isshiki-Iroha1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Isshiki-Iroha1.webp"
 },{
   "id": "972",
   "name": "Hitori Gotoh #1",
@@ -7801,7 +7801,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hitori-Gotoh1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hitori-Gotoh1.webp"
 },{
   "id": "973",
   "name": "Elsa Granhilte #1",
@@ -7809,7 +7809,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Elsa-Granhilte1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Elsa-Granhilte1.webp"
 },{
   "id": "974",
   "name": "Saki Ayase #1",
@@ -7817,7 +7817,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Saki-Ayase1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Saki-Ayase1.webp"
 },{
   "id": "975",
   "name": "Chris #1",
@@ -7825,7 +7825,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Chris1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Chris1.webp"
 },{
   "id": "976",
   "name": "Wiz #1",
@@ -7833,7 +7833,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Wiz1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Wiz1.webp"
 },{
   "id": "977",
   "name": "Kazuma Satou #1",
@@ -7841,7 +7841,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kazuma-Satou1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kazuma-Satou1.webp"
 },{
   "id": "978",
   "name": "Iris #1",
@@ -7849,7 +7849,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Iris1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Iris1.webp"
 },{
   "id": "979",
   "name": "Wiz #2",
@@ -7857,7 +7857,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Wiz2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Wiz2.webp"
 },{
   "id": "980",
   "name": "Baron Bunny #1",
@@ -7865,7 +7865,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Baron-Bunny1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Baron-Bunny1.webp"
 },{
   "id": "981",
   "name": "Nahida #2",
@@ -7873,7 +7873,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Nahida1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Nahida1.webp"
 },{
   "id": "982",
   "name": "Oshino Shinobu #1",
@@ -7881,7 +7881,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Oshino-Shinobu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Oshino-Shinobu1.webp"
 },{
   "id": "983",
   "name": "Mai Sakurajima #3",
@@ -7889,7 +7889,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mai-Sakurajima2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mai-Sakurajima2.webp"
 },{
   "id": "984",
   "name": "Hatsune Miku #7",
@@ -7897,7 +7897,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hatsune-Miku7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hatsune-Miku7.webp"
 },{
   "id": "985",
   "name": "Anna Yamada #1",
@@ -7905,7 +7905,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Anna-Yamada3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Anna-Yamada3.webp"
 },{
   "id": "986",
   "name": "Bing Hayu #1",
@@ -7913,7 +7913,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Bing-Hayu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Bing-Hayu1.webp"
 },{
   "id": "987",
   "name": "Lisanna Strauss #1",
@@ -7921,7 +7921,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Lisanna-Strauss1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lisanna-Strauss1.webp"
 },{
   "id": "988",
   "name": "Yoshizaki Kokoa #1",
@@ -7929,7 +7929,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Yoshizaki-Kokoa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Yoshizaki-Kokoa1.webp"
 },{
   "id": "989",
   "name": "Tsukasa Tenma #3",
@@ -7937,7 +7937,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tsukasa-Tenma3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tsukasa-Tenma3.webp"
 },{
   "id": "990",
   "name": "Rikka & Sanae #1",
@@ -7945,7 +7945,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/RikkaSanae1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/RikkaSanae1.webp"
 },{
   "id": "991",
   "name": "Milk #1",
@@ -7953,7 +7953,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Milk1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Milk1.webp"
 },{
   "id": "992",
   "name": "Tsumugi Kotobuki #1",
@@ -7961,7 +7961,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tsumugi-Kotobuki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tsumugi-Kotobuki1.webp"
 },{
   "id": "993",
   "name": "Tenka Izumo #1",
@@ -7969,7 +7969,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tenka-Izumo1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tenka-Izumo1.webp"
 },{
   "id": "994",
   "name": "Himari Azuma #1",
@@ -7977,7 +7977,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Himari-Azuma1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Himari-Azuma1.webp"
 },{
   "id": "995",
   "name": "Kyouka Uzen #1",
@@ -7985,7 +7985,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kyouka-Uzen1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kyouka-Uzen1.webp"
 },{
   "id": "996",
   "name": "Index #1",
@@ -7993,7 +7993,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Index1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Index1.webp"
 },{
   "id": "997",
   "name": "St. Germain #1",
@@ -8001,7 +8001,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/St.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/St.webp"
 },{
   "id": "998",
   "name": "Ai Hoshino #7",
@@ -8009,7 +8009,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ai-Hoshino6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ai-Hoshino6.webp"
 },{
   "id": "999",
   "name": "Mori Calliope #1",
@@ -8017,7 +8017,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mori-Calliope3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mori-Calliope3.webp"
 },{
   "id": "1000",
   "name": "Yoshinon & Yoshino #1",
@@ -8025,7 +8025,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/YoshinonYoshino1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/YoshinonYoshino1.webp"
 },{
   "id": "1001",
   "name": "Irene Belserion #1",
@@ -8033,7 +8033,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Irene-Belserion1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Irene-Belserion1.webp"
 },{
   "id": "1002",
   "name": "Hanekaw Tsubasa #1",
@@ -8041,7 +8041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hanekaw-Tsubasa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hanekaw-Tsubasa1.webp"
 },{
   "id": "1003",
   "name": "Marin Kitagawa #7",
@@ -8049,7 +8049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Marin-Kitagawa6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Marin-Kitagawa6.webp"
 },{
   "id": "1004",
   "name": "Male Ritsuka & Female Ritsuka #1",
@@ -8057,7 +8057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Male-RitsukaFemale-Ritsuka1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Male-RitsukaFemale-Ritsuka1.webp"
 },{
   "id": "1005",
   "name": "Sothe #1",
@@ -8065,7 +8065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sothe1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sothe1.webp"
 },{
   "id": "1006",
   "name": "Mami Nanami #4",
@@ -8073,7 +8073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mami-Nanami4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mami-Nanami4.webp"
 },{
   "id": "1007",
   "name": "Lan & Wei #5",
@@ -8081,7 +8081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/LanWei6.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/LanWei6.webp"
 },{
   "id": "1008",
   "name": "Cha Cha #1",
@@ -8089,7 +8089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Cha-Cha1.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Cha-Cha1.png"
 },{
   "id": "1009",
   "name": "Alisa Mikhailovna Kujou #13",
@@ -8097,7 +8097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Alisa-Mikhailovna-Kujou13.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Alisa-Mikhailovna-Kujou13.webp"
 },{
   "id": "1010",
   "name": "Mori Calliope #2",
@@ -8105,7 +8105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mori-Calliope4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mori-Calliope4.webp"
 },{
   "id": "1011",
   "name": "Rutile #1",
@@ -8113,7 +8113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rutile1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rutile1.webp"
 },{
   "id": "1012",
   "name": "Chisaki Sarashina #1",
@@ -8121,7 +8121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Chisaki-Sarashina1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Chisaki-Sarashina1.webp"
 },{
   "id": "1013",
   "name": "Maria Mikhailovna Kujou #5",
@@ -8129,7 +8129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Maria-Mikhailovna-Kujou7.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Maria-Mikhailovna-Kujou7.webp"
 },{
   "id": "1014",
   "name": "Hlidskjalf #1",
@@ -8137,7 +8137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hlidskjalf1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hlidskjalf1.webp"
 },{
   "id": "1015",
   "name": "Akira Otori #1",
@@ -8145,7 +8145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Akira-Otori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Akira-Otori1.webp"
 },{
   "id": "1016",
   "name": "Sumi Sakurasawa #1",
@@ -8153,7 +8153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sumi-Sakurasawa1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sumi-Sakurasawa1.webp"
 },{
   "id": "1017",
   "name": "Chizuru Mizuhara #3",
@@ -8161,7 +8161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Chizuru-Mizuhara2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Chizuru-Mizuhara2.webp"
 },{
   "id": "1018",
   "name": "Mami Nanami #5",
@@ -8169,7 +8169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mami-Nanami5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mami-Nanami5.webp"
 },{
   "id": "1019",
   "name": "Sumi Sakurasawa #2",
@@ -8177,7 +8177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sumi-Sakurasawa2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sumi-Sakurasawa2.webp"
 },{
   "id": "1020",
   "name": "Ruka Sarashina #1",
@@ -8185,7 +8185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ruka-Sarashina1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ruka-Sarashina1.webp"
 },{
   "id": "1021",
   "name": "Anna Yamada #2",
@@ -8193,7 +8193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Anna-Yamada2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Anna-Yamada2.webp"
 },{
   "id": "1022",
   "name": "Tomoya Uzuki #1",
@@ -8201,7 +8201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tomoya-Uzuki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tomoya-Uzuki1.webp"
 },{
   "id": "1023",
   "name": "Mihate Hiura #1",
@@ -8209,7 +8209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mihate-Hiura1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mihate-Hiura1.webp"
 },{
   "id": "1024",
   "name": "Daisy #1",
@@ -8217,7 +8217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Daisy1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Daisy1.webp"
 },{
   "id": "1025",
   "name": "Hatsune Miku #8",
@@ -8225,7 +8225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hatsune-Miku8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hatsune-Miku8.webp"
 },{
   "id": "1026",
   "name": "March Hare #1",
@@ -8233,7 +8233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/March-Hare1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/March-Hare1.webp"
 },{
   "id": "1027",
   "name": "Hahari Hanazono #1",
@@ -8241,7 +8241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hahari-Hanazono1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hahari-Hanazono1.webp"
 },{
   "id": "1028",
   "name": "Nano Eiai #1",
@@ -8249,7 +8249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Nano-Eiai1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Nano-Eiai1.webp"
 },{
   "id": "1029",
   "name": "Karane Inda #1",
@@ -8257,7 +8257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Karane-Inda1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Karane-Inda1.webp"
 },{
   "id": "1030",
   "name": "Kurisu Makise #2",
@@ -8265,7 +8265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Makise-Kurisu2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Makise-Kurisu2.webp"
 },{
   "id": "1031",
   "name": "Elaina #2",
@@ -8273,7 +8273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Elaina%20%232.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Elaina%20%232.webp"
 },{
   "id": "1032",
   "name": "Zenith Greyrat #1",
@@ -8281,7 +8281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Zenith%20Greyrat%20%231.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Zenith%20Greyrat%20%231.webp"
 },{
   "id": "1033",
   "name": "Lillia Greyrat #1",
@@ -8289,7 +8289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Lillia-Greyrat1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lillia-Greyrat1.webp"
 },{
   "id": "1034",
   "name": "Murr #1",
@@ -8297,7 +8297,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Murr%20%231.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Murr%20%231.webp"
 },{
   "id": "1035",
   "name": "Amane Fujimiya #1",
@@ -8305,7 +8305,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Amane-Fujimiya1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Amane-Fujimiya1.webp"
 },{
   "id": "1036",
   "name": "Alisa Mikhailovna Kujou #14",
@@ -8313,7 +8313,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Alisa-Mikhailovna-Kujou14.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Alisa-Mikhailovna-Kujou14.webp"
 },{
   "id": "1037",
   "name": "Kurumi Tokisaki #9",
@@ -8321,7 +8321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kurumi%20Tokisaki%20%2310.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kurumi%20Tokisaki%20%2310.webp"
 },{
   "id": "1038",
   "name": "Tohka Yatogami #2",
@@ -8329,7 +8329,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Tohka-Yatogami2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Tohka-Yatogami2.webp"
 },{
   "id": "1039",
   "name": "Mammon #2",
@@ -8337,7 +8337,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mammon2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mammon2.webp"
 },{
   "id": "1040",
   "name": "Beelzebub #3",
@@ -8345,7 +8345,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Beelzebub2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Beelzebub2.webp"
 },{
   "id": "1041",
   "name": "Diavolo #1",
@@ -8353,7 +8353,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Diavolo1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Diavolo1.webp"
 },{
   "id": "1042",
   "name": "Mammon #3",
@@ -8361,7 +8361,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mammon3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mammon3.webp"
 },{
   "id": "1043",
   "name": "Lucifer #2",
@@ -8369,7 +8369,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Lucifer2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lucifer2.webp"
 },{
   "id": "1044",
   "name": "Lucifer X Barbatos #1",
@@ -8377,7 +8377,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/LuciferXBarbatos1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/LuciferXBarbatos1.webp"
 },{
   "id": "1045",
   "name": "Asmodeus #4",
@@ -8385,7 +8385,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Asmodeus2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Asmodeus2.webp"
 },{
   "id": "1046",
   "name": "Belphegor #2",
@@ -8393,7 +8393,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Belphegor2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Belphegor2.webp"
 },{
   "id": "1047",
   "name": "Belphegor #3",
@@ -8401,7 +8401,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Belphegor3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Belphegor3.webp"
 },{
   "id": "1048",
   "name": "Elfine Phillet #1",
@@ -8409,7 +8409,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Elfine-Phillet1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Elfine-Phillet1.webp"
 },{
   "id": "1049",
   "name": "Regina Mercedes #1",
@@ -8417,7 +8417,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Regina-Mercedes1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Regina-Mercedes1.webp"
 },{
   "id": "1050",
   "name": "Yuu Ayase #1",
@@ -8425,7 +8425,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Yuu-Ayase1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Yuu-Ayase1.webp"
 },{
   "id": "1051",
   "name": "Sasaki Shuumei #1",
@@ -8433,7 +8433,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sasaki-Shuumei1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sasaki-Shuumei1.webp"
 },{
   "id": "1052",
   "name": "Miyano Yoshikazu #1",
@@ -8441,7 +8441,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Miyano-Yoshikazu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Miyano-Yoshikazu1.webp"
 },{
   "id": "1053",
   "name": "Mahiru Shiina #9",
@@ -8449,7 +8449,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mahiru-Shiina8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mahiru-Shiina8.webp"
 },{
   "id": "1054",
   "name": "Leviathan #2",
@@ -8457,7 +8457,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Leviathan2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Leviathan2.webp"
 },{
   "id": "1055",
   "name": "Leviathan #3",
@@ -8465,7 +8465,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Leviathan3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Leviathan3.webp"
 },{
   "id": "1056",
   "name": "Laura Bodewig #1",
@@ -8473,7 +8473,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Laura-Bodewig1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Laura-Bodewig1.webp"
 },{
   "id": "1057",
   "name": "Akuma Nihmune #3",
@@ -8481,7 +8481,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Akuma-Nihmune1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Akuma-Nihmune1.webp"
 },{
   "id": "1058",
   "name": "Saber Alter #1",
@@ -8489,7 +8489,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Saber-Alter1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Saber-Alter1.webp"
 },{
   "id": "1059",
   "name": "Emilia #5",
@@ -8497,7 +8497,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Emilia5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Emilia5.webp"
 },{
   "id": "1060",
   "name": "Ais Wallenstein #1",
@@ -8505,7 +8505,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ais-Wallenstein1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ais-Wallenstein1.webp"
 },{
   "id": "1061",
   "name": "Fu Hua #1",
@@ -8513,7 +8513,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Fu-Hua1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Fu-Hua1.webp"
 },{
   "id": "1062",
   "name": "Hestia #2",
@@ -8521,7 +8521,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hestia2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hestia2.webp"
 },{
   "id": "1063",
   "name": "Rias Gremory #4",
@@ -8529,7 +8529,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rias-Gremory4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rias-Gremory4.webp"
 },{
   "id": "1064",
   "name": "Akeno Himejima #1",
@@ -8537,7 +8537,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Akeno-Himejima1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Akeno-Himejima1.webp"
 },{
   "id": "1065",
   "name": "Xenovia Quarta #1",
@@ -8545,7 +8545,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Xenovia%20Quarta%20%231.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Xenovia%20Quarta%20%231.webp"
 },{
   "id": "1066",
   "name": "Melfy Rabby #1",
@@ -8553,7 +8553,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Melfy-Rabby1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Melfy-Rabby1.webp"
 },{
   "id": "1067",
   "name": "Alexia Midgar #1",
@@ -8561,7 +8561,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Alexia%20Midgar%20%231.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Alexia%20Midgar%20%231.webp"
 },{
   "id": "1068",
   "name": "Mammon & Leviathan #1",
@@ -8569,7 +8569,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/MammonLeviathan1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/MammonLeviathan1.webp"
 },{
   "id": "1069",
   "name": "Rin Itoshi #1",
@@ -8577,7 +8577,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rin-Itoshi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rin-Itoshi1.webp"
 },{
   "id": "1070",
   "name": "Nagi Seishiro #1",
@@ -8585,7 +8585,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Nagi-Seishiro1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Nagi-Seishiro1.webp"
 },{
   "id": "1071",
   "name": "Sae Itoshi #1",
@@ -8593,7 +8593,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Sae-Itoshi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Sae-Itoshi1.webp"
 },{
   "id": "1072",
   "name": "Hiori Yo #1",
@@ -8601,7 +8601,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hiori-Yo1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hiori-Yo1.webp"
 },{
   "id": "1073",
   "name": "Isagi Yoichi #1",
@@ -8609,7 +8609,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Isagi-Yoichi1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Isagi-Yoichi1.webp"
 },{
   "id": "1074",
   "name": "Reo Mikage #1",
@@ -8617,7 +8617,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Reo-Mikage1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Reo-Mikage1.webp"
 },{
   "id": "1075",
   "name": "Karasu Tabito #1",
@@ -8625,7 +8625,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Karasu-Tabito1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Karasu-Tabito1.webp"
 },{
   "id": "1076",
   "name": "Agatsuma Zenitsu #1",
@@ -8633,7 +8633,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Agatsuma-Zenitsu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Agatsuma-Zenitsu1.webp"
 },{
   "id": "1077",
   "name": "Hashibira Inosuke #1",
@@ -8641,7 +8641,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hashibira-Inosuke1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hashibira-Inosuke1.webp"
 },{
   "id": "1078",
   "name": "Kamado Tanjirou #1",
@@ -8649,7 +8649,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Kamado-Tanjirou1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Kamado-Tanjirou1.webp"
 },{
   "id": "1079",
   "name": "Pricilla #1",
@@ -8657,7 +8657,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Pricilla1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Pricilla1.webp"
 },{
   "id": "1080",
   "name": "Lucy Heartfilia X Erza Scarlett #1",
@@ -8665,7 +8665,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Lucy-HeartfilliaXErza-Scarlett1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lucy-HeartfilliaXErza-Scarlett1.webp"
 },{
   "id": "1081",
   "name": "Reduvia #1",
@@ -8673,7 +8673,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Reduvia1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Reduvia1.webp"
 },{
   "id": "1082",
   "name": "Chihaya Anon #1",
@@ -8681,7 +8681,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Chihaya-Anon1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Chihaya-Anon1.webp"
 },{
   "id": "1083",
   "name": "Ivan #5",
@@ -8689,7 +8689,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ivan5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ivan5.webp"
 },{
   "id": "1084",
   "name": "Blanc X Noir #1",
@@ -8697,7 +8697,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/BlancXNoir1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/BlancXNoir1.webp"
 },{
   "id": "1085",
   "name": "Wish Me Mell #1",
@@ -8705,7 +8705,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Wish-Me-Mell1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Wish-Me-Mell1.webp"
 },{
   "id": "1086",
   "name": "Ichikawa Hinana #1",
@@ -8713,7 +8713,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ichikawa-Hinana1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ichikawa-Hinana1.webp"
 },{
   "id": "1087",
   "name": "Darkness #2",
@@ -8721,7 +8721,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Darkness2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Darkness2.webp"
 },{
   "id": "1088",
   "name": "Nezuko Kamado #1",
@@ -8729,7 +8729,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Nezuko%20Kamado%20%231.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Nezuko%20Kamado%20%231.webp"
 },{
   "id": "1089",
   "name": "Vladilena Milize #1",
@@ -8737,7 +8737,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Vladilena%20Miliz%C3%A9%20%232.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Vladilena%20Miliz%C3%A9%20%232.webp"
 },{
   "id": "1090",
   "name": "Hakui Koyori #1",
@@ -8745,7 +8745,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/HakuiKoyori1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/HakuiKoyori1.webp"
 },{
   "id": "1091",
   "name": "Luka #4",
@@ -8753,7 +8753,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Luka4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Luka4.webp"
 },{
   "id": "1092",
   "name": "Mizi X Sua #1",
@@ -8761,7 +8761,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/MiziXSua2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/MiziXSua2.webp"
 },{
   "id": "1093",
   "name": "Hyuna #5",
@@ -8769,7 +8769,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Hyuna5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Hyuna5.webp"
 },{
   "id": "1094",
   "name": "Shidou Ryusei #1",
@@ -8777,7 +8777,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Easter",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Shidou-Ryusei1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Shidou-Ryusei1.webp"
 },{
   "id": "1095",
   "name": "Siesta #2",
@@ -8785,7 +8785,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Siesta2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Siesta2.webp"
 },{
   "id": "1096",
   "name": "Wendy Marvell #2",
@@ -8793,7 +8793,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Wendy-Marvell2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Wendy-Marvell2.webp"
 },{
   "id": "1097",
   "name": "Reisen Udongein Inaba #1",
@@ -8801,7 +8801,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ catromage",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Reisen-Udongein-Inaba1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Reisen-Udongein-Inaba1.webp"
 },{
   "id": "1098",
   "name": "Usada Pekora #1",
@@ -8809,7 +8809,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ .luckysoul",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Usada-Pekora1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Usada-Pekora1.webp"
 },{
   "id": "1099",
   "name": "Edgar Allan Poe #2",
@@ -8817,7 +8817,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Edgar-Allan-Poe2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Edgar-Allan-Poe2.webp"
 },{
   "id": "1100",
   "name": "Mizi #5",
@@ -8825,7 +8825,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mizi5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mizi5.webp"
 },{
   "id": "1101",
   "name": "Maria Mikhailovna Kujou #6",
@@ -8833,7 +8833,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Maria-Mikhailovna-Kujou8.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Maria-Mikhailovna-Kujou8.webp"
 },{
   "id": "1102",
   "name": "Rias Gremory #5",
@@ -8841,7 +8841,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Rias-Gremory5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Rias-Gremory5.webp"
 },{
   "id": "1103",
   "name": "KAngel & Ame-Chan #1",
@@ -8849,7 +8849,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/KAngelxAme1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/KAngelxAme1.webp"
 },{
   "id": "1104",
   "name": "Alisa Mikhailovna Kujou #15",
@@ -8857,7 +8857,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Alisa-Mikhailovna-Kujou15.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Alisa-Mikhailovna-Kujou15.webp"
 },{
   "id": "1105",
   "name": "Melody & Ms Tori & Mr Flats #1",
@@ -8865,7 +8865,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/MelodyToriFlats1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/MelodyToriFlats1.webp"
 },{
   "id": "1106",
   "name": "Lucy Heartfilia #3",
@@ -8873,7 +8873,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Lucy-Heartfillia3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Lucy-Heartfillia3.webp"
 },{
   "id": "1107",
   "name": "Mark Twain #1",
@@ -8881,7 +8881,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Mark-Twain1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Mark-Twain1.webp"
 },{
   "id": "1108",
   "name": "Pikachu #1",
@@ -8889,7 +8889,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Exclusive",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Pikachu1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Pikachu1.webp"
 },{
   "id": "1109",
   "name": "Ruby Hakanai #1",
@@ -8897,7 +8897,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Ruby-Hakanai1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Ruby-Hakanai1.webp"
 },{
   "id": "1110",
   "name": "Wei & Lan #1",
@@ -8905,7 +8905,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/WeiXLan5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/WeiXLan5.webp"
 },{
   "id": "1111",
   "name": "Anna Yamada #3",
@@ -8913,7 +8913,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/Anna-Yamada1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/Anna-Yamada1.webp"
 },{
   "id": "1112",
   "name": "Chrollo Lucilfer #1",
@@ -8921,7 +8921,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Chrollo-Lucilfer-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Chrollo-Lucilfer-1.webp"
 },{
   "id": "1113",
   "name": "Emilia X Puck #1",
@@ -8929,7 +8929,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent Duo",
   "source": "Official Art|Made By ➺ catromage",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/emiliaxpuck-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/emiliaxpuck-1.webp"
 },{
   "id": "1114",
   "name": "Sparkle X Sparkxie #1",
@@ -8937,7 +8937,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent Duo",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/sparkle&sparkxie-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/sparkle&sparkxie-1.webp"
 },{
   "id": "1115",
   "name": "Levi Ackerman #6",
@@ -8945,7 +8945,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ catromage",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/LeviAckerman-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/LeviAckerman-5.webp"
 },{
   "id": "1116",
   "name": "Frieren #4",
@@ -8953,7 +8953,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Easter",
   "source": "Official Art|Made By ➺ its_slept & liitn",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Easter/frieren-4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Easter/frieren-4.webp"
 },{
   "id": "1117",
   "name": "Monkey D. Luffy #1",
@@ -8961,7 +8961,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Monkey-D-Luffy-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Monkey-D-Luffy-1.webp"
 },{
   "id": "1118",
   "name": "Yoimiya #2",
@@ -8969,7 +8969,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ 2zeph",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/yoimiya-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/yoimiya-2.webp"
 },{
   "id": "1119",
   "name": "Sparkle #1",
@@ -8977,7 +8977,7 @@ export const CARDS = [
   "rarity": "ultimate",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ 2zeph",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Sparkle-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Sparkle-2.webp"
 },{
   "id": "1120",
   "name": "Ningguang #1",
@@ -8985,7 +8985,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ 2zeph",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Ningguang-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Ningguang-1.webp"
 },{
   "id": "1121",
   "name": "Augustus #1",
@@ -8993,7 +8993,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Augustus-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Augustus-1.webp"
 },{
   "id": "1122",
   "name": "Jingliu #1",
@@ -9001,7 +9001,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ 2zeph",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/jingliu-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/jingliu-1.webp"
 },{
   "id": "1123",
   "name": "Chiz #1",
@@ -9009,7 +9009,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ im_down_bad",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Chiz-1-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Chiz-1-1.webp"
 },{
   "id": "1124",
   "name": "Takane Takamine #1",
@@ -9017,7 +9017,7 @@ export const CARDS = [
   "rarity": "celestial",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/Takane-Takamine-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/Takane-Takamine-1.webp"
 },{
   "id": "1125",
   "name": "Kiritani Haruka #2",
@@ -9025,7 +9025,7 @@ export const CARDS = [
   "rarity": "godly",
   "type": "Permanent",
   "source": "Official Art|Made By ➺ its_slept",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/3D/kiritani-haruka-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/3D/kiritani-haruka-1.webp"
 },{
   "id": "1126",
   "name": "Yami Sukehiro #1",
@@ -9041,7 +9041,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/MonicaEverret1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/MonicaEverret1.webp"
 },{
   "id": "1128",
   "name": "Homura & Madoka #1",
@@ -9049,7 +9049,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/MadokaXHomura1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/MadokaXHomura1.webp"
 },{
   "id": "1129",
   "name": "Crelly #2",
@@ -9057,7 +9057,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Crelly2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Crelly2.webp"
 },{
   "id": "1130",
   "name": "Crelly & KokoNuts #1",
@@ -9065,7 +9065,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/CrellyKokoNuts1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/CrellyKokoNuts1.webp"
 },{
   "id": "1131",
   "name": "Malty S. Melromarc #1",
@@ -9073,7 +9073,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Malty-S-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Malty-S-1.webp"
 },{
   "id": "1132",
   "name": "Itsuki Kawasumi #1",
@@ -9081,7 +9081,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Itsuki-Kawasumi-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Itsuki-Kawasumi-1.webp"
 },{
   "id": "1133",
   "name": "Ken Kaneki #2",
@@ -9089,7 +9089,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/KenKaneki2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/KenKaneki2.webp"
 },{
   "id": "1134",
   "name": "Ken X Rize #1",
@@ -9097,7 +9097,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/KenxRize1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/KenxRize1.webp"
 },{
   "id": "1135",
   "name": "Ken Kaneki #1",
@@ -9105,7 +9105,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/KenKaneki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/KenKaneki1.webp"
 },{
   "id": "1136",
   "name": "Crelly #1",
@@ -9113,7 +9113,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/crelly1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/crelly1.webp"
 },{
   "id": "1137",
   "name": "Melty Q Melromarc #1",
@@ -9121,7 +9121,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Melty_Q_Melromarc-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Melty_Q_Melromarc-1.webp"
 },{
   "id": "1138",
   "name": "Filo #1",
@@ -9129,7 +9129,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Filo-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Filo-1.webp"
 },{
   "id": "1139",
   "name": "Ishia Ivyred #1",
@@ -9137,7 +9137,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Ishia_Ivyred-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Ishia_Ivyred-1.webp"
 },{
   "id": "1140",
   "name": "Ash Lynx & Eiji Okumura #1",
@@ -9145,7 +9145,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent Duo",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Ash_Lynx_Eiji_Okumura1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Ash_Lynx_Eiji_Okumura1.webp"
 },{
   "id": "1141",
   "name": "Raiden Shogun #3",
@@ -9153,7 +9153,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/RaidenShogun4.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/RaidenShogun4.webp"
 },{
   "id": "1142",
   "name": "Megalodon #1",
@@ -9161,7 +9161,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Megalodon1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Megalodon1.webp"
 },{
   "id": "1143",
   "name": "Edward Elric #1",
@@ -9169,7 +9169,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/EdwardElric1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/EdwardElric1.webp"
 },{
   "id": "1144",
   "name": "Milim Nava #1",
@@ -9177,7 +9177,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Milim-Nava1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Milim-Nava1.webp"
 },{
   "id": "1145",
   "name": "Mikoto Misaka #1",
@@ -9185,7 +9185,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Mikoto-Misaka1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Mikoto-Misaka1.webp"
 },{
   "id": "1146",
   "name": "Rimuru Tempest #1",
@@ -9193,7 +9193,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Rimuru-Tempest1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Rimuru-Tempest1.webp"
 },{
   "id": "1147",
   "name": "Panda #1",
@@ -9201,7 +9201,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Panda1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Panda1.webp"
 },{
   "id": "1148",
   "name": "Toge Inumaki #1",
@@ -9209,7 +9209,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Toge-Inumaki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Toge-Inumaki1.webp"
 },{
   "id": "1149",
   "name": "Nobara Kugisaki #1",
@@ -9217,7 +9217,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Nobara-Kugisaki1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Nobara-Kugisaki1.webp"
 },{
   "id": "1150",
   "name": "Maki Zenin #1",
@@ -9225,7 +9225,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Maki-Zenin1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Maki-Zenin1.webp"
 },{
   "id": "1151",
   "name": "Kento Nanami #1",
@@ -9233,7 +9233,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Kento-Nanami1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Kento-Nanami1.webp"
 },{
   "id": "1152",
   "name": "Roxana Agrece #1",
@@ -9241,7 +9241,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/RoxanaAgrece1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/RoxanaAgrece1.webp"
 },{
   "id": "1153",
   "name": "Roxana Agrece #2",
@@ -9249,7 +9249,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/RoxanaAgrece2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/RoxanaAgrece2.webp"
 },{
   "id": "1154",
   "name": "Roxana Agrece #3",
@@ -9257,7 +9257,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/RoxanaAgrece3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/RoxanaAgrece3.webp"
 },{
   "id": "1155",
   "name": "Kotori Itsuka #2",
@@ -9265,7 +9265,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Kotori-Itsuka-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Kotori-Itsuka-2.webp"
 },{
   "id": "1156",
   "name": "Izayoi Miku #1",
@@ -9273,7 +9273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Izayoi-Miku-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Izayoi-Miku-1.webp"
 },{
   "id": "1157",
   "name": "Yoshino Himekawa #3",
@@ -9281,7 +9281,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Yoshino-Himekawa-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Yoshino-Himekawa-3.webp"
 },{
   "id": "1158",
   "name": "Takamiya Mio #1",
@@ -9289,7 +9289,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/v1.0/Permanent-7/Takamiya-Mio-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-7/Takamiya-Mio-1.webp"
 },{
   "id": "1159",
   "name": "Nami #3",
