@@ -9994,5 +9994,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
+},{
+  "id": "1247",
+  "name": "Lauma #3",
+  "series": "Genshin Impact",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
 }
 ];
