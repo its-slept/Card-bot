@@ -9922,5 +9922,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Rider-Europa-1.webp"
+},{
+  "id": "1238",
+  "name": "Eskal Van Dyck X Laranora Ador #1",
+  "series": "I Tamed the Crazy Marquis",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Eskal-Van-Dyck-X-Laranora-Ador-1.webp"
 }
 ];
