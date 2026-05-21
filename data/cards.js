@@ -9938,5 +9938,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Wulfgard-1.webp"
+},{
+  "id": "1240",
+  "name": "Teresa #1",
+  "series": "Grand Sphere",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Teresa-1.webp"
 }
 ];
