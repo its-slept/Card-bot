@@ -9580,12 +9580,12 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Shiabun-1.png"
 },{
   "id": "1195",
-  "name": "Yanqing",
+  "name": "Yanqing #1",
   "series": "Honkai Verse",
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yanqing.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-8/Yanqing-1.webp"
 },{
   "id": "1196",
   "name": "Killua & Alluka",
