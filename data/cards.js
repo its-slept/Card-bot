@@ -1,3 +1,7 @@
+import { readFileSync } from "fs";
+import { fileURLToPath } from "url";
+import { dirname, join } from "path";
+
 /* ======================
    RARITY CHANCES (OUT OF 100)
 ====================== */
@@ -249,7 +253,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-34-145.png"
 },{
   "id": "27",
   "name": "Aventurine #2",
@@ -257,7 +261,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-42-48-447.png"
 },{
   "id": "28",
   "name": "Aventurine #3",
@@ -265,7 +269,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Aventurine-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_16-43-43-988.png"
 },{
   "id": "29",
   "name": "Acheron #1",
@@ -273,7 +277,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Acheron-1.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-05-15-928.png"
 },{
   "id": "30",
   "name": "Acheron #2",
@@ -321,7 +325,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-3.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-40-25-635.webp"
 },{
   "id": "36",
   "name": "Cyrene #4",
@@ -337,7 +341,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-5.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-45-31-422.webp"
 },{
   "id": "38",
   "name": "Sunday #1",
@@ -4137,7 +4141,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Nami-2.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Card-2/Card-101.webp"
 },{
   "id": "514",
   "name": "Dark Sakura #1",
@@ -9996,3 +10000,36 @@ export const CARDS = [
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Lauma-3.webp"
 }
 ];
+
+/* ======================
+   LIVE CARD READER
+   Reads cards.js fresh from disk so new/edited cards appear
+   without a bot restart. Results are cached for 5 seconds so
+   rapid successive lookups don't thrash the filesystem.
+====================== */
+const _cardsPath = join(dirname(fileURLToPath(import.meta.url)), "cards.js");
+let _cache = null;
+let _cacheAt = 0;
+const _TTL = 5_000;
+
+export function getCards() {
+  const now = Date.now();
+  if (_cache && now - _cacheAt < _TTL) return _cache;
+  const text = readFileSync(_cardsPath, "utf8");
+  const startToken = "export const CARDS = [";
+  const si = text.indexOf(startToken);
+  if (si === -1) throw new Error("Could not locate CARDS array in cards.js");
+  // The array is terminated by a standalone `];` on its own line
+  const endToken = "\n];";
+  const ei = text.indexOf(endToken, si);
+  if (ei === -1) throw new Error("Could not find end of CARDS array in cards.js");
+  const arrStr = text.slice(si + "export const CARDS = ".length, ei + 2);
+  _cache = new Function(`return ${arrStr}`)();
+  _cacheAt = now;
+  return _cache;
+}
+
+export function invalidateCardsCache() {
+  _cache = null;
+  _cacheAt = 0;
+}
