@@ -321,7 +321,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-27_02-40-25-635.webp"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Cyrene-3.webp"
 },{
   "id": "36",
   "name": "Cyrene #4",
