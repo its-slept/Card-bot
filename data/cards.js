@@ -9930,5 +9930,13 @@ export const CARDS = [
   "type": "Permanent",
   "source": "Official Art",
   "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Eskal-Van-Dyck-X-Laranora-Ador-1.webp"
+},{
+  "id": "1239",
+  "name": "Wulfgard #1",
+  "series": "Arknights: Endfield",
+  "rarity": "rare,epic,legendary",
+  "type": "Permanent",
+  "source": "Official Art",
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Permanent-9/Wulfgard-1.webp"
 }
 ];
