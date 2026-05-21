@@ -273,7 +273,7 @@ export const CARDS = [
   "rarity": "rare,epic,legendary",
   "type": "Permanent",
   "source": "Official Art",
-  "imageUrl": "https://raw.githubusercontent.com/its-slept/Idk/main/Picsart_26-01-26_17-05-15-928.png"
+  "imageUrl": "https://raw.githubusercontent.com/its-slept/Card-bot/main/Picsart_26-01-26_17-05-15-928.webp"
 },{
   "id": "30",
   "name": "Acheron #2",
